@@ -1,0 +1,5426 @@
+{
+    "10 Big Poes": {
+        "address": 15624943,
+        "address2": null,
+        "default": 15,
+        "hint": "the Market",
+        "scene": 77,
+        "type": "NPC"
+    },
+    "10 Gold Skulltula Reward": {
+        "address": 15364467,
+        "address2": null,
+        "default": 69,
+        "hint": "Kakariko Village",
+        "scene": 80,
+        "type": "NPC"
+    },
+    "20 Gold Skulltula Reward": {
+        "address": 15364469,
+        "address2": null,
+        "default": 57,
+        "hint": "Kakariko Village",
+        "scene": 80,
+        "type": "NPC"
+    },
+    "30 Gold Skulltula Reward": {
+        "address": 15364471,
+        "address2": null,
+        "default": 70,
+        "hint": "Kakariko Village",
+        "scene": 80,
+        "type": "NPC"
+    },
+    "40 Gold Skulltula Reward": {
+        "address": 15364473,
+        "address2": null,
+        "default": 3,
+        "hint": "Kakariko Village",
+        "scene": 80,
+        "type": "NPC"
+    },
+    "50 Gold Skulltula Reward": {
+        "address": 15364475,
+        "address2": null,
+        "default": 62,
+        "hint": "Kakariko Village",
+        "scene": 80,
+        "type": "NPC"
+    },
+    "Adult Fishing": {
+        "address": 14467207,
+        "address2": null,
+        "default": 56,
+        "hint": "Lake Hylia",
+        "scene": 73,
+        "type": "NPC"
+    },
+    "Adult Shooting Gallery": {
+        "address": 13852507,
+        "address2": null,
+        "default": 48,
+        "hint": "Kakariko Village",
+        "scene": 66,
+        "type": "NPC"
+    },
+    "Anju as Adult": {
+        "address": 14805691,
+        "address2": null,
+        "default": 29,
+        "hint": "Kakariko Village",
+        "scene": 82,
+        "type": "NPC"
+    },
+    "Anjus Chickens": {
+        "address": 14804903,
+        "address2": null,
+        "default": 15,
+        "hint": "Kakariko Village",
+        "scene": 82,
+        "type": "NPC"
+    },
+    "Barinade": {
+        "address": 13252331,
+        "address2": 34683929,
+        "default": 110,
+        "hint": "Jabu Jabu's Belly",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Barinade Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 19,
+        "type": "BossHeart"
+    },
+    "Biggoron": {
+        "address": 15545231,
+        "address2": 15557903,
+        "default": 87,
+        "hint": "Death Mountain Trail",
+        "scene": 96,
+        "type": "NPC"
+    },
+    "Bombchu Bowling Bomb Bag": {
+        "address": 14872723,
+        "address2": null,
+        "default": 52,
+        "hint": "the Market",
+        "scene": 75,
+        "type": "NPC"
+    },
+    "Bombchu Bowling Piece of Heart": {
+        "address": 14872727,
+        "address2": null,
+        "default": 62,
+        "hint": "the Market",
+        "scene": 75,
+        "type": "NPC"
+    },
+    "Bombchu Shop Item 1": {
+        "address": 13049680,
+        "address2": null,
+        "default": 48,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 2": {
+        "address": 13049688,
+        "address2": null,
+        "default": 49,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 3": {
+        "address": 13049696,
+        "address2": null,
+        "default": 50,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 4": {
+        "address": 13049704,
+        "address2": null,
+        "default": 51,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 5": {
+        "address": 13049712,
+        "address2": null,
+        "default": 52,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 6": {
+        "address": 13049720,
+        "address2": null,
+        "default": 53,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 7": {
+        "address": 13049728,
+        "address2": null,
+        "default": 54,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bombchu Shop Item 8": {
+        "address": 13049736,
+        "address2": null,
+        "default": 55,
+        "hint": "the Market",
+        "scene": 50,
+        "type": "Shop"
+    },
+    "Bongo Bongo": {
+        "address": 13254467,
+        "address2": 13712921,
+        "default": 106,
+        "hint": "Shadow Temple",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Bongo Bongo Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Shadow Temple",
+        "scene": 24,
+        "type": "BossHeart"
+    },
+    "Boomerang Chest": {
+        "address": 41459898,
+        "address2": null,
+        "default": 4289,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Bottom of the Well Back Left Bombable": {
+        "address": 53293374,
+        "address2": null,
+        "default": 23684,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Basement Chest": {
+        "address": 53383762,
+        "address2": null,
+        "default": 2087,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Behind Right Grate": {
+        "address": 53293470,
+        "address2": null,
+        "default": 21836,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Center Large Chest": {
+        "address": 53293294,
+        "address2": null,
+        "default": 2049,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Center Small Chest": {
+        "address": 53293486,
+        "address2": null,
+        "default": 20558,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Defeat Boss": {
+        "address": 53457066,
+        "address2": null,
+        "default": 4419,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Collectable"
+    },
+    "Bottom of the Well Front Center Bombable": {
+        "address": 53293310,
+        "address2": null,
+        "default": 20578,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Front Left Hidden Wall": {
+        "address": 53293438,
+        "address2": null,
+        "default": 22600,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Invisible Chest": {
+        "address": 53457082,
+        "address2": null,
+        "default": 27348,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Locked Pits": {
+        "address": 53448874,
+        "address2": null,
+        "default": 21802,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6146,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well MQ Dead Hand Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Collectable"
+    },
+    "Bottom of the Well MQ East Inner Room Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Collectable"
+    },
+    "Bottom of the Well MQ Lens Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 45377,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2083,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Right Bottom Hidden Wall": {
+        "address": 53293390,
+        "address2": null,
+        "default": 22597,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Stick Pot": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Bottom of the Well",
+        "scene": null,
+        "type": "Event"
+    },
+    "Bottom of the Well Underwater Front Chest": {
+        "address": 53293502,
+        "address2": null,
+        "default": 23760,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Bottom of the Well Underwater Left Chest": {
+        "address": 53293454,
+        "address2": null,
+        "default": 22793,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "Chest"
+    },
+    "Castle Town Bazaar Item 1": {
+        "address": 13049808,
+        "address2": null,
+        "default": 48,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 2": {
+        "address": 13049816,
+        "address2": null,
+        "default": 49,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 3": {
+        "address": 13049824,
+        "address2": null,
+        "default": 50,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 4": {
+        "address": 13049832,
+        "address2": null,
+        "default": 51,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 5": {
+        "address": 13049840,
+        "address2": null,
+        "default": 52,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 6": {
+        "address": 13049848,
+        "address2": null,
+        "default": 53,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 7": {
+        "address": 13049856,
+        "address2": null,
+        "default": 54,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Bazaar Item 8": {
+        "address": 13049864,
+        "address2": null,
+        "default": 55,
+        "hint": "the Market",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 1": {
+        "address": 13049744,
+        "address2": null,
+        "default": 48,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 2": {
+        "address": 13049752,
+        "address2": null,
+        "default": 49,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 3": {
+        "address": 13049760,
+        "address2": null,
+        "default": 50,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 4": {
+        "address": 13049768,
+        "address2": null,
+        "default": 51,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 5": {
+        "address": 13049776,
+        "address2": null,
+        "default": 52,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 6": {
+        "address": 13049784,
+        "address2": null,
+        "default": 53,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 7": {
+        "address": 13049792,
+        "address2": null,
+        "default": 54,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Castle Town Potion Shop Item 8": {
+        "address": 13049800,
+        "address2": null,
+        "default": 55,
+        "hint": "the Market",
+        "scene": 49,
+        "type": "Shop"
+    },
+    "Chest Above King Dodongo": {
+        "address": 48955578,
+        "address2": null,
+        "default": 20512,
+        "hint": "Dodongo's Cavern",
+        "scene": 18,
+        "type": "Chest"
+    },
+    "Child Fishing": {
+        "address": 14467007,
+        "address2": null,
+        "default": 62,
+        "hint": "Lake Hylia",
+        "scene": 73,
+        "type": "NPC"
+    },
+    "Child Shooting Gallery": {
+        "address": 13852403,
+        "address2": null,
+        "default": 96,
+        "hint": "the Market",
+        "scene": 66,
+        "type": "NPC"
+    },
+    "Colossus Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 13,
+        "hint": "Desert Colossus",
+        "scene": 92,
+        "type": "Collectable"
+    },
+    "Composer Grave Chest": {
+        "address": 53661930,
+        "address2": null,
+        "default": 32800,
+        "hint": "the Graveyard",
+        "scene": 65,
+        "type": "Chest"
+    },
+    "Crater Fairy Reward": {
+        "address": 55055365,
+        "address2": null,
+        "default": 82,
+        "hint": "Death Mountain Crater",
+        "scene": 59,
+        "type": "NPC"
+    },
+    "DC Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC Deku Scrub Deku Seeds": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC Deku Scrub Deku Shield": {
+        "address": null,
+        "address2": null,
+        "default": 52,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC Deku Scrub Deku Sticks": {
+        "address": null,
+        "address2": null,
+        "default": 49,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC MQ Deku Scrub Deku Seeds": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC MQ Deku Scrub Deku Shield": {
+        "address": null,
+        "address2": null,
+        "default": 52,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC MQ Deku Scrub Deku Sticks": {
+        "address": null,
+        "address2": null,
+        "default": 49,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DC MQ Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "NPC"
+    },
+    "DM Crater Volcano Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Death Mountain Crater",
+        "scene": 97,
+        "type": "Collectable"
+    },
+    "DM Crater Wall Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Death Mountain Crater",
+        "scene": 97,
+        "type": "Collectable"
+    },
+    "DM Trail Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 30,
+        "hint": "Death Mountain Trail",
+        "scene": 96,
+        "type": "Collectable"
+    },
+    "DMC Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Death Mountain Crater",
+        "scene": 97,
+        "type": "NPC"
+    },
+    "DMC Grotto Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Death Mountain Crater",
+        "scene": 8,
+        "type": "GrottoNPC"
+    },
+    "DMC Grotto Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Death Mountain Crater",
+        "scene": 8,
+        "type": "GrottoNPC"
+    },
+    "DMC Grotto Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Death Mountain Crater",
+        "scene": 8,
+        "type": "GrottoNPC"
+    },
+    "DT MQ Deku Scrub Deku Shield": {
+        "address": null,
+        "address2": null,
+        "default": 52,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "NPC"
+    },
+    "Dampe Race Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 7,
+        "hint": "the Graveyard",
+        "scene": 72,
+        "type": "Collectable"
+    },
+    "Darunias Joy": {
+        "address": 13573119,
+        "address2": null,
+        "default": 84,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "NPC"
+    },
+    "Death Mountain Bombable Chest": {
+        "address": 35898314,
+        "address2": 35899314,
+        "default": 23201,
+        "hint": "Death Mountain Trail",
+        "scene": 96,
+        "type": "Chest"
+    },
+    "Deku Baba Nuts": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Kokiri Forest",
+        "scene": null,
+        "type": "Event"
+    },
+    "Deku Baba Sticks": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Kokiri Forest",
+        "scene": null,
+        "type": "Event"
+    },
+    "Deku Theater Mask of Truth": {
+        "address": 15506663,
+        "address2": null,
+        "default": 122,
+        "hint": "the Lost Woods",
+        "scene": 62,
+        "type": "NPC"
+    },
+    "Deku Theater Skull Mask": {
+        "address": 15506055,
+        "address2": null,
+        "default": 119,
+        "hint": "the Lost Woods",
+        "scene": 62,
+        "type": "NPC"
+    },
+    "Deku Tree Basement Chest": {
+        "address": 38568294,
+        "address2": null,
+        "default": 22788,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree Compass Chest": {
+        "address": 38813910,
+        "address2": null,
+        "default": 2050,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree Compass Room Side Chest": {
+        "address": 38813926,
+        "address2": null,
+        "default": 22790,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree Lobby Chest": {
+        "address": 38433094,
+        "address2": null,
+        "default": 2083,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ After Spinning Log Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23200,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Basement Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34084,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Before Spinning Log Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22789,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2049,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Lobby Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2083,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Slingshot Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 4262,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree MQ Slingshot Room Back Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34082,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree Slingshot Chest": {
+        "address": 38543558,
+        "address2": null,
+        "default": 161,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Deku Tree Slingshot Room Side Chest": {
+        "address": 38543574,
+        "address2": null,
+        "default": 22789,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "Chest"
+    },
+    "Desert Colossus Fairy Reward": {
+        "address": 55055363,
+        "address2": null,
+        "default": 94,
+        "hint": "Desert Colossus",
+        "scene": 61,
+        "type": "NPC"
+    },
+    "Desert Grotto Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Desert Colossus",
+        "scene": 7,
+        "type": "GrottoNPC"
+    },
+    "Desert Grotto Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Desert Colossus",
+        "scene": 7,
+        "type": "GrottoNPC"
+    },
+    "Diving Minigame": {
+        "address": 14686763,
+        "address2": 14686887,
+        "default": 55,
+        "hint": "Zora's Domain",
+        "scene": 88,
+        "type": "NPC"
+    },
+    "Diving in the Lab": {
+        "address": 14863255,
+        "address2": null,
+        "default": 62,
+        "hint": "Lake Hylia",
+        "scene": 56,
+        "type": "NPC"
+    },
+    "Dodongos Cavern Bomb Bag Chest": {
+        "address": 33067214,
+        "address2": null,
+        "default": 1604,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern Bomb Flower Platform": {
+        "address": 33067230,
+        "address2": null,
+        "default": 22982,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern Compass Chest": {
+        "address": 33222826,
+        "address2": null,
+        "default": 2053,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern End of Bridge Chest": {
+        "address": 32670158,
+        "address2": null,
+        "default": 21802,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Bomb Bag Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 1604,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6149,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Larva Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 29986,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2080,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Torch Puzzle Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22947,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern MQ Under Grave Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 21825,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dodongos Cavern Map Chest": {
+        "address": 32670110,
+        "address2": null,
+        "default": 2088,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "Chest"
+    },
+    "Dog Lady": {
+        "address": 15094115,
+        "address2": 15098299,
+        "default": 62,
+        "hint": "the Market",
+        "scene": 53,
+        "type": "NPC"
+    },
+    "Epona": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Lon Lon Ranch",
+        "scene": null,
+        "type": "Event"
+    },
+    "Field Near Lake Outside Fence Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 3,
+        "hint": "Hyrule Field",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Field West Castle Town Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 0,
+        "hint": "Hyrule Field",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Fire Temple Big Lava Room Bombable Chest": {
+        "address": 37408886,
+        "address2": null,
+        "default": 22594,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Big Lava Room Open Chest": {
+        "address": 37343398,
+        "address2": null,
+        "default": 22596,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Boss Key Chest": {
+        "address": 37265622,
+        "address2": null,
+        "default": 10220,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Boulder Maze Bombable Pit": {
+        "address": 36810978,
+        "address2": null,
+        "default": 22603,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Boulder Maze Lower Chest": {
+        "address": 36843858,
+        "address2": null,
+        "default": 22595,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Boulder Maze Side Room": {
+        "address": 37437618,
+        "address2": null,
+        "default": 22600,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Boulder Maze Upper Chest": {
+        "address": 36843906,
+        "address2": null,
+        "default": 22598,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Chest Near Boss": {
+        "address": 36733066,
+        "address2": null,
+        "default": 22593,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Compass Chest": {
+        "address": 37490818,
+        "address2": null,
+        "default": 2055,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Fire Dancer Chest": {
+        "address": 36798594,
+        "address2": null,
+        "default": 31936,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Highest Goron Chest": {
+        "address": 37113958,
+        "address2": null,
+        "default": 22601,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Big Lava Room Bombable Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22593,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Boss Key Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 10212,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Chest Near Boss": {
+        "address": 0,
+        "address2": null,
+        "default": 22599,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2059,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Entrance Hallway Small Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30018,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 28,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Collectable"
+    },
+    "Fire Temple MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2092,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Maze Lower Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23747,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Maze Side Room": {
+        "address": 0,
+        "address2": null,
+        "default": 22600,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Maze Upper Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23782,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ Megaton Hammer Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 4512,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple MQ West Tower Top Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22597,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Map Chest": {
+        "address": 37216450,
+        "address2": null,
+        "default": 2090,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Megaton Hammer Chest": {
+        "address": 37142786,
+        "address2": null,
+        "default": 421,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Fire Temple Scarecrow Chest": {
+        "address": 36933762,
+        "address2": null,
+        "default": 23245,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "Chest"
+    },
+    "Forest Temple Block Push Chest": {
+        "address": 38121622,
+        "address2": null,
+        "default": 35172,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Blue Poe Chest": {
+        "address": 38203518,
+        "address2": null,
+        "default": 6159,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Boss Key Chest": {
+        "address": 13307330,
+        "address2": null,
+        "default": 10222,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Bow Chest": {
+        "address": 37834898,
+        "address2": null,
+        "default": 45196,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Chest Behind Lobby": {
+        "address": 37834882,
+        "address2": null,
+        "default": 30784,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Falling Room Chest": {
+        "address": 38264990,
+        "address2": null,
+        "default": 22855,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple First Chest": {
+        "address": 37638290,
+        "address2": null,
+        "default": 22595,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Floormaster Chest": {
+        "address": 38338674,
+        "address2": null,
+        "default": 30786,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Boss Key Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 10222,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Bow Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 45196,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Chest Behind Lobby": {
+        "address": 0,
+        "address2": null,
+        "default": 30784,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6159,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Falling Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35110,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ First Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34883,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6189,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ NE Outdoors Lower Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22593,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ NE Outdoors Upper Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22597,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Near Boss Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22827,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Redead Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30786,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple MQ Well Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22601,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Map Chest": {
+        "address": 38097014,
+        "address2": null,
+        "default": 6177,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Near Boss Chest": {
+        "address": 38297730,
+        "address2": null,
+        "default": 22827,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Outside Hookshot Chest": {
+        "address": 37875926,
+        "address2": null,
+        "default": 22789,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Red Poe Chest": {
+        "address": 38166654,
+        "address2": null,
+        "default": 30797,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Forest Temple Well Chest": {
+        "address": 38051938,
+        "address2": null,
+        "default": 22601,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "Chest"
+    },
+    "Frog Ocarina Game": {
+        "address": 14357459,
+        "address2": null,
+        "default": 118,
+        "hint": "Zora's River",
+        "scene": 84,
+        "type": "NPC"
+    },
+    "Frogs in the Rain": {
+        "address": 14357383,
+        "address2": null,
+        "default": 62,
+        "hint": "Zora's River",
+        "scene": 84,
+        "type": "NPC"
+    },
+    "GC Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC MQ Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC MQ Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC MQ Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC MQ Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GC MQ Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "NPC"
+    },
+    "GS Castle Market Guard House": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "the Market",
+        "scene": 14,
+        "type": "GS Token"
+    },
+    "GS Death Mountain Crater Crate": {
+        "address": null,
+        "address2": null,
+        "default": 128,
+        "hint": "Death Mountain Crater",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Deku Tree Basement Back Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree Basement Gate": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree Basement Vines": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree Compass Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree MQ Basement Back Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree MQ Basement Ceiling": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree MQ Compass Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Deku Tree MQ Lobby": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Deku Tree",
+        "scene": 0,
+        "type": "GS Token"
+    },
+    "GS Desert Colossus Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Desert Colossus",
+        "scene": 21,
+        "type": "GS Token"
+    },
+    "GS Desert Colossus Hill": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Desert Colossus",
+        "scene": 21,
+        "type": "GS Token"
+    },
+    "GS Desert Colossus Tree": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Desert Colossus",
+        "scene": 21,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern Alcove Above Stairs": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern Back Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern East Side Room": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern MQ Back Area": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern MQ Larva Room": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern MQ Lizalfos Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern MQ Scrub Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern MQ Song of Time Block Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern Scarecrow": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Dodongo's Cavern Vines Above Stairs": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Dodongo's Cavern",
+        "scene": 1,
+        "type": "GS Token"
+    },
+    "GS Fire Temple Basement": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple East Tower Climb": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple East Tower Top": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple MQ Above Fire Wall Maze": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple MQ Big Lava Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple MQ East Tower Top": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple MQ Fire Wall Maze Center": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple MQ Fire Wall Maze Side Room": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple Song of Time Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Fire Temple Unmarked Bomb Wall": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Fire Temple",
+        "scene": 4,
+        "type": "GS Token"
+    },
+    "GS Forest Temple Basement": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple First Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple Lobby": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple MQ Block Push Room": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple MQ First Hallway": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple MQ Outdoor East": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple MQ Outdoor West": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple MQ Well": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple Outdoor East": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Forest Temple Outdoor West": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Forest Temple",
+        "scene": 3,
+        "type": "GS Token"
+    },
+    "GS Gerudo Fortress Archery Range": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Gerudo Fortress",
+        "scene": 20,
+        "type": "GS Token"
+    },
+    "GS Gerudo Fortress Top Floor": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Gerudo Fortress",
+        "scene": 20,
+        "type": "GS Token"
+    },
+    "GS Gerudo Valley Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Gerudo Valley",
+        "scene": 19,
+        "type": "GS Token"
+    },
+    "GS Gerudo Valley Behind Tent": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Gerudo Valley",
+        "scene": 19,
+        "type": "GS Token"
+    },
+    "GS Gerudo Valley Pillar": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Gerudo Valley",
+        "scene": 19,
+        "type": "GS Token"
+    },
+    "GS Gerudo Valley Small Bridge": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Gerudo Valley",
+        "scene": 19,
+        "type": "GS Token"
+    },
+    "GS Goron City Boulder Maze": {
+        "address": null,
+        "address2": null,
+        "default": 64,
+        "hint": "Goron City",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Goron City Center Platform": {
+        "address": null,
+        "address2": null,
+        "default": 32,
+        "hint": "Goron City",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Graveyard Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "the Graveyard",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Graveyard Wall": {
+        "address": null,
+        "address2": null,
+        "default": 128,
+        "hint": "the Graveyard",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Hyrule Castle Grotto": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Hyrule Castle",
+        "scene": 14,
+        "type": "GS Token"
+    },
+    "GS Hyrule Castle Tree": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Hyrule Castle",
+        "scene": 14,
+        "type": "GS Token"
+    },
+    "GS Hyrule Field Near Gerudo Valley": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Hyrule Field",
+        "scene": 10,
+        "type": "GS Token"
+    },
+    "GS Hyrule Field near Kakariko": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Hyrule Field",
+        "scene": 10,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern Heart Piece Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern MQ Ice Block": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern MQ Red Ice": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern MQ Scarecrow": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern Push Block Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Ice Cavern Spinning Scythe Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu Lobby Basement Lower": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu Lobby Basement Upper": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu MQ Boomerang Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu MQ Invisible Enemies Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu MQ Near Boss": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu MQ Tailpasaran Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu Near Boss": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Jabu Jabu Water Switch Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "GS Token"
+    },
+    "GS Kakariko Above Impa's House": {
+        "address": null,
+        "address2": null,
+        "default": 64,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kakariko Guard's House": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kakariko House Under Construction": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kakariko Skulltula House": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kakariko Tree": {
+        "address": null,
+        "address2": null,
+        "default": 32,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kakariko Watchtower": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Kakariko Village",
+        "scene": 16,
+        "type": "GS Token"
+    },
+    "GS Kokiri Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Kokiri Forest",
+        "scene": 12,
+        "type": "GS Token"
+    },
+    "GS Kokiri House of Twins": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Kokiri Forest",
+        "scene": 12,
+        "type": "GS Token"
+    },
+    "GS Kokiri Know It All House": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Kokiri Forest",
+        "scene": 12,
+        "type": "GS Token"
+    },
+    "GS Lab Underwater Crate": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Lake Hylia",
+        "scene": 18,
+        "type": "GS Token"
+    },
+    "GS Lake Hylia Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Lake Hylia",
+        "scene": 18,
+        "type": "GS Token"
+    },
+    "GS Lake Hylia Giant Tree": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Lake Hylia",
+        "scene": 18,
+        "type": "GS Token"
+    },
+    "GS Lake Hylia Lab Wall": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Lake Hylia",
+        "scene": 18,
+        "type": "GS Token"
+    },
+    "GS Lake Hylia Small Island": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Lake Hylia",
+        "scene": 18,
+        "type": "GS Token"
+    },
+    "GS Lon Lon Ranch Back Wall": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Lon Lon Ranch",
+        "scene": 11,
+        "type": "GS Token"
+    },
+    "GS Lon Lon Ranch House Window": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Lon Lon Ranch",
+        "scene": 11,
+        "type": "GS Token"
+    },
+    "GS Lon Lon Ranch Rain Shed": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Lon Lon Ranch",
+        "scene": 11,
+        "type": "GS Token"
+    },
+    "GS Lon Lon Ranch Tree": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Lon Lon Ranch",
+        "scene": 11,
+        "type": "GS Token"
+    },
+    "GS Lost Woods Above Stage": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "the Lost Woods",
+        "scene": 13,
+        "type": "GS Token"
+    },
+    "GS Lost Woods Bean Patch Near Bridge": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "the Lost Woods",
+        "scene": 13,
+        "type": "GS Token"
+    },
+    "GS Lost Woods Bean Patch Near Stage": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "the Lost Woods",
+        "scene": 13,
+        "type": "GS Token"
+    },
+    "GS Mountain Crater Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Death Mountain Crater",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Mountain Trail Above Dodongo's Cavern": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Death Mountain Trail",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Mountain Trail Bean Patch": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Death Mountain Trail",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Mountain Trail Bomb Alcove": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Death Mountain Trail",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Mountain Trail Path to Crater": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Death Mountain Trail",
+        "scene": 15,
+        "type": "GS Token"
+    },
+    "GS Outside Ganon's Castle": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "outside Ganon's Castle",
+        "scene": 14,
+        "type": "GS Token"
+    },
+    "GS Sacred Forest Meadow": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Sacred Forest Meadow",
+        "scene": 13,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple Crusher Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple Like Like Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple MQ After Ship": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple MQ After Wind": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple MQ Crusher Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple MQ Near Boss": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple MQ Wind Hint Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple Near Ship": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple Single Giant Pot": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Shadow Temple Triple Giant Pot": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple Bomb for Light Room": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple Boulder Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple Hall to West Iron Knuckle": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple Lobby": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple MQ Iron Knuckle North": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple MQ Iron Knuckle West": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple MQ Lower Adult Left": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple MQ Lower Adult Right": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple MQ Sun Block Room": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Spirit Temple Metal Fence": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "GS Token"
+    },
+    "GS Wasteland Ruins": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Haunted Wasteland",
+        "scene": 21,
+        "type": "GS Token"
+    },
+    "GS Water Temple Central Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple Falling Platform Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple MQ Before Upper Water Switch": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple MQ Lizalfos Hallway": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple MQ North Basement": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple MQ Serpent River": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple MQ South Basement": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple Near Boss Key Chest": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple Serpent River": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Water Temple South Basement": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "GS Token"
+    },
+    "GS Well East Inner Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Well Like Like Cage": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Well MQ Basement": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Well MQ Coffin Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Well MQ West Inner Room": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Well West Inner Room": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Bottom of the Well",
+        "scene": 8,
+        "type": "GS Token"
+    },
+    "GS Zora River Above Bridge": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Zora's River",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora River Ladder": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Zora's River",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora River Near Raised Grottos": {
+        "address": null,
+        "address2": null,
+        "default": 16,
+        "hint": "Zora's River",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora River Tree": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Zora's River",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora's Domain Frozen Waterfall": {
+        "address": null,
+        "address2": null,
+        "default": 64,
+        "hint": "Zora's Domain",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora's Fountain Above the Log": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Zora's Fountain",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora's Fountain Hidden Cave": {
+        "address": null,
+        "address2": null,
+        "default": 32,
+        "hint": "Zora's Fountain",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "GS Zora's Fountain Tree": {
+        "address": null,
+        "address2": null,
+        "default": 128,
+        "hint": "Zora's Fountain",
+        "scene": 17,
+        "type": "GS Token"
+    },
+    "Ganon": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Ganons Castle Fairy Reward": {
+        "address": 55055366,
+        "address2": null,
+        "default": 83,
+        "hint": "outside Ganon's Castle",
+        "scene": 59,
+        "type": "NPC"
+    },
+    "Ganons Castle Fire Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Forest Trial Chest": {
+        "address": 52367470,
+        "address2": null,
+        "default": 30857,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Forest Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Light Trail Invisible Enemies Chest": {
+        "address": 52539742,
+        "address2": null,
+        "default": 30800,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Light Trial First Left Chest": {
+        "address": 52539678,
+        "address2": null,
+        "default": 22668,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial First Right Chest": {
+        "address": 52539710,
+        "address2": null,
+        "default": 24462,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Lullaby Chest": {
+        "address": 52539774,
+        "address2": null,
+        "default": 34897,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Second Left Chest": {
+        "address": 52539662,
+        "address2": null,
+        "default": 24459,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Second Right Chest": {
+        "address": 52539646,
+        "address2": null,
+        "default": 22890,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Third Left Chest": {
+        "address": 52539694,
+        "address2": null,
+        "default": 22797,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Light Trial Third Right Chest": {
+        "address": 52539726,
+        "address2": null,
+        "default": 24463,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Forest Trial First Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35138,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Forest Trial Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Collectable"
+    },
+    "Ganons Castle MQ Forest Trial Second Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32803,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Light Trial Lullaby Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35076,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Shadow Trial First Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35136,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Shadow Trial Second Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34885,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial First Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 20586,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial Golden Gauntlets Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 46790,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial Second Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26964,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial Sun Back Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34888,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial Sun Back Right Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35079,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Spirit Trial Sun Front Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35081,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle MQ Water Trial Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22977,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Shadow Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Shadow Trial First Chest": {
+        "address": 52646090,
+        "address2": null,
+        "default": 22664,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Shadow Trial Second Chest": {
+        "address": 52646074,
+        "address2": null,
+        "default": 14021,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Spirit Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Spirit Trial First Chest": {
+        "address": 52855090,
+        "address2": null,
+        "default": 36210,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Spirit Trial Second Chest": {
+        "address": 52855106,
+        "address2": null,
+        "default": 26964,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Water Trial Clear": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Ganon's Castle",
+        "scene": null,
+        "type": "Event"
+    },
+    "Ganons Castle Water Trial Left Chest": {
+        "address": 52261430,
+        "address2": null,
+        "default": 24455,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Castle Water Trial Right Chest": {
+        "address": 52261414,
+        "address2": null,
+        "default": 22790,
+        "hint": "Ganon's Castle",
+        "scene": 13,
+        "type": "Chest"
+    },
+    "Ganons Tower Boss Key Chest": {
+        "address": 49299694,
+        "address2": null,
+        "default": 10219,
+        "hint": "Ganon's Tower",
+        "scene": 10,
+        "type": "Chest"
+    },
+    "Gerudo Fortress Carpenter Rescue": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Gerudo Fortress",
+        "scene": null,
+        "type": "Event"
+    },
+    "Gerudo Fortress Membership Card": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Gerudo Fortress",
+        "scene": 12,
+        "type": "NPC"
+    },
+    "Gerudo Fortress North F1 Carpenter": {
+        "address": null,
+        "address2": null,
+        "default": 12,
+        "hint": "Gerudo Fortress",
+        "scene": 12,
+        "type": "Collectable"
+    },
+    "Gerudo Fortress North F2 Carpenter": {
+        "address": null,
+        "address2": null,
+        "default": 10,
+        "hint": "Gerudo Fortress",
+        "scene": 12,
+        "type": "Collectable"
+    },
+    "Gerudo Fortress Rooftop Chest": {
+        "address": 35378346,
+        "address2": 35378922,
+        "default": 1984,
+        "hint": "Gerudo Fortress",
+        "scene": 93,
+        "type": "Chest"
+    },
+    "Gerudo Fortress South F1 Carpenter": {
+        "address": null,
+        "address2": null,
+        "default": 14,
+        "hint": "Gerudo Fortress",
+        "scene": 12,
+        "type": "Collectable"
+    },
+    "Gerudo Fortress South F2 Carpenter": {
+        "address": null,
+        "address2": null,
+        "default": 15,
+        "hint": "Gerudo Fortress",
+        "scene": 12,
+        "type": "Collectable"
+    },
+    "Gerudo Training Grounds Beamos Chest": {
+        "address": 42758494,
+        "address2": null,
+        "default": 34881,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Before Heavy Block Chest": {
+        "address": 42623262,
+        "address2": null,
+        "default": 31089,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Eye Statue Chest": {
+        "address": 42655902,
+        "address2": null,
+        "default": 34883,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Collectable"
+    },
+    "Gerudo Training Grounds Hammer Room Clear Chest": {
+        "address": 42701230,
+        "address2": null,
+        "default": 31058,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Hammer Room Switch Chest": {
+        "address": 42701214,
+        "address2": null,
+        "default": 22608,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Heavy Block First Chest": {
+        "address": 42848446,
+        "address2": null,
+        "default": 31439,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Heavy Block Fourth Chest": {
+        "address": 42848414,
+        "address2": null,
+        "default": 24450,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Heavy Block Second Chest": {
+        "address": 42848430,
+        "address2": null,
+        "default": 30862,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Heavy Block Third Chest": {
+        "address": 42848398,
+        "address2": null,
+        "default": 26708,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Hidden Ceiling Chest": {
+        "address": 42795278,
+        "address2": null,
+        "default": 22603,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Lobby Left Chest": {
+        "address": 42496202,
+        "address2": null,
+        "default": 34963,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Lobby Right Chest": {
+        "address": 42496186,
+        "address2": null,
+        "default": 35143,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Before Heavy Block Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31057,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Dinolfos Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34881,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Eye Statue Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32867,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ First Iron Knuckle Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35232,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Flame Circle Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34894,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Heavy Block Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31394,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Hidden Ceiling Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23211,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Ice Arrows Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47908,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Lobby Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22867,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Lobby Right Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23879,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Maze Path First Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22918,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Maze Path Second Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22986,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Maze Path Third Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 24137,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Maze Right Central Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22661,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Maze Right Side Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 24136,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Second Iron Knuckle Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31058,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds MQ Underwater Silver Rupee Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34893,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Path Final Chest": {
+        "address": 42795294,
+        "address2": null,
+        "default": 2860,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Path First Chest": {
+        "address": 42795214,
+        "address2": null,
+        "default": 23206,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Path Second Chest": {
+        "address": 42795262,
+        "address2": null,
+        "default": 22986,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Path Third Chest": {
+        "address": 42795246,
+        "address2": null,
+        "default": 22889,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Right Central Chest": {
+        "address": 42795198,
+        "address2": null,
+        "default": 23877,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Maze Right Side Chest": {
+        "address": 42795230,
+        "address2": null,
+        "default": 22888,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Near Scarecrow Chest": {
+        "address": 42795182,
+        "address2": null,
+        "default": 22596,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Stalfos Chest": {
+        "address": 42561706,
+        "address2": null,
+        "default": 34880,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Training Grounds Underwater Silver Rupee Chest": {
+        "address": 42832342,
+        "address2": null,
+        "default": 34893,
+        "hint": "Gerudo Training Grounds",
+        "scene": 11,
+        "type": "Chest"
+    },
+    "Gerudo Valley Crate Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Gerudo Valley",
+        "scene": 90,
+        "type": "Collectable"
+    },
+    "Gerudo Valley Hammer Rocks Chest": {
+        "address": 34854518,
+        "address2": null,
+        "default": 23200,
+        "hint": "Gerudo Valley",
+        "scene": 90,
+        "type": "Chest"
+    },
+    "Gerudo Valley Waterfall Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Gerudo Valley",
+        "scene": 90,
+        "type": "Collectable"
+    },
+    "Gift from Saria": {
+        "address": null,
+        "address2": null,
+        "default": 59,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "Goron City Left Maze Chest": {
+        "address": 36160090,
+        "address2": 36161322,
+        "default": 23202,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "Chest"
+    },
+    "Goron City Leftmost Maze Chest": {
+        "address": 36160058,
+        "address2": 36161290,
+        "default": 23232,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "Chest"
+    },
+    "Goron City Pot Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 31,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "Collectable"
+    },
+    "Goron City Right Maze Chest": {
+        "address": 36160074,
+        "address2": 36161306,
+        "default": 23201,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "Chest"
+    },
+    "Goron City Stick Pot": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Goron City",
+        "scene": null,
+        "type": "Event"
+    },
+    "Goron Grotto Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Goron City",
+        "scene": 9,
+        "type": "GrottoNPC"
+    },
+    "Goron Grotto Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Goron City",
+        "scene": 9,
+        "type": "GrottoNPC"
+    },
+    "Goron Grotto Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Goron City",
+        "scene": 9,
+        "type": "GrottoNPC"
+    },
+    "Goron Shop Item 1": {
+        "address": 13050064,
+        "address2": null,
+        "default": 48,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 2": {
+        "address": 13050072,
+        "address2": null,
+        "default": 49,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 3": {
+        "address": 13050080,
+        "address2": null,
+        "default": 50,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 4": {
+        "address": 13050088,
+        "address2": null,
+        "default": 51,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 5": {
+        "address": 13050096,
+        "address2": null,
+        "default": 52,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 6": {
+        "address": 13050104,
+        "address2": null,
+        "default": 53,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 7": {
+        "address": 13050112,
+        "address2": null,
+        "default": 54,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Goron Shop Item 8": {
+        "address": 13050120,
+        "address2": null,
+        "default": 55,
+        "hint": "Goron City",
+        "scene": 46,
+        "type": "Shop"
+    },
+    "Gravedigging Tour": {
+        "address": null,
+        "address2": null,
+        "default": 0,
+        "hint": "the Graveyard",
+        "scene": 83,
+        "type": "Collectable"
+    },
+    "Graveyard Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "the Graveyard",
+        "scene": 83,
+        "type": "Collectable"
+    },
+    "HF Grotto Deku Scrub Piece of Heart": {
+        "address": null,
+        "address2": null,
+        "default": 62,
+        "hint": "Hyrule Field",
+        "scene": 1,
+        "type": "GrottoNPC"
+    },
+    "Haunted Wasteland Structure Chest": {
+        "address": 35528926,
+        "address2": null,
+        "default": 35488,
+        "hint": "Haunted Wasteland",
+        "scene": 94,
+        "type": "Chest"
+    },
+    "Heart Piece Grave Chest": {
+        "address": 47226966,
+        "address2": null,
+        "default": 42944,
+        "hint": "the Graveyard",
+        "scene": 63,
+        "type": "Chest"
+    },
+    "Hookshot Chest": {
+        "address": 50737298,
+        "address2": null,
+        "default": 4352,
+        "hint": "the Graveyard",
+        "scene": 72,
+        "type": "Chest"
+    },
+    "Horseback Archery 1000 Points": {
+        "address": 14756719,
+        "address2": 14756515,
+        "default": 62,
+        "hint": "Gerudo Fortress",
+        "scene": 93,
+        "type": "NPC"
+    },
+    "Horseback Archery 1500 Points": {
+        "address": 14756803,
+        "address2": 14756603,
+        "default": 48,
+        "hint": "Gerudo Fortress",
+        "scene": 93,
+        "type": "NPC"
+    },
+    "Hyrule Castle Fairy Reward": {
+        "address": 55055362,
+        "address2": null,
+        "default": 92,
+        "hint": "Hyrule Castle",
+        "scene": 61,
+        "type": "NPC"
+    },
+    "Ice Cavern Compass Chest": {
+        "address": 46457398,
+        "address2": null,
+        "default": 2049,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Ice Cavern Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Collectable"
+    },
+    "Ice Cavern Iron Boots Chest": {
+        "address": 46366882,
+        "address2": null,
+        "default": 5570,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Ice Cavern MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2048,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Ice Cavern MQ Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Collectable"
+    },
+    "Ice Cavern MQ Iron Boots Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 5570,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Ice Cavern MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47137,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Ice Cavern Map Chest": {
+        "address": 46399850,
+        "address2": null,
+        "default": 2080,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Chest"
+    },
+    "Impa House Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Kakariko Village",
+        "scene": 55,
+        "type": "Collectable"
+    },
+    "Impa at Castle": {
+        "address": 48818469,
+        "address2": 48818469,
+        "default": 103,
+        "hint": "Hyrule Castle",
+        "scene": 81,
+        "type": "Song"
+    },
+    "Jabu Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "NPC"
+    },
+    "Jabu Jabus Belly Compass Chest": {
+        "address": 41509002,
+        "address2": null,
+        "default": 47108,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Basement North Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32840,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Basement South Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32868,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Boomerang Room Small Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 20545,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47104,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Entry Side Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32837,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Falling Like Like Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 28905,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47139,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Near Boss Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34090,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Second Room Lower Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 20546,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly MQ Second Room Upper Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35079,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Jabu Jabus Belly Map Chest": {
+        "address": 41476234,
+        "address2": null,
+        "default": 6178,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Kakariko Back Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 8,
+        "hint": "Kakariko Village",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Kakariko Bazaar Item 1": {
+        "address": 13049872,
+        "address2": null,
+        "default": 56,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 2": {
+        "address": 13049880,
+        "address2": null,
+        "default": 57,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 3": {
+        "address": 13049888,
+        "address2": null,
+        "default": 58,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 4": {
+        "address": 13049896,
+        "address2": null,
+        "default": 59,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 5": {
+        "address": 13049904,
+        "address2": null,
+        "default": 61,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 6": {
+        "address": 13049912,
+        "address2": null,
+        "default": 62,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 7": {
+        "address": 13049920,
+        "address2": null,
+        "default": 63,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Bazaar Item 8": {
+        "address": 13049928,
+        "address2": null,
+        "default": 64,
+        "hint": "Kakariko Village",
+        "scene": 44,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 1": {
+        "address": 13049616,
+        "address2": null,
+        "default": 48,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 2": {
+        "address": 13049624,
+        "address2": null,
+        "default": 49,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 3": {
+        "address": 13049632,
+        "address2": null,
+        "default": 50,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 4": {
+        "address": 13049640,
+        "address2": null,
+        "default": 51,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 5": {
+        "address": 13049648,
+        "address2": null,
+        "default": 52,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 6": {
+        "address": 13049656,
+        "address2": null,
+        "default": 53,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 7": {
+        "address": 13049664,
+        "address2": null,
+        "default": 54,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "Kakariko Potion Shop Item 8": {
+        "address": 13049672,
+        "address2": null,
+        "default": 55,
+        "hint": "Kakariko Village",
+        "scene": 48,
+        "type": "Shop"
+    },
+    "King Dodongo": {
+        "address": 13250783,
+        "address2": 35795721,
+        "default": 109,
+        "hint": "Dodongo's Cavern",
+        "scene": null,
+        "type": "Boss"
+    },
+    "King Dodongo Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Dodongo's Cavern",
+        "scene": 18,
+        "type": "BossHeart"
+    },
+    "King Zora Moves": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Zora's Domain",
+        "scene": null,
+        "type": "Event"
+    },
+    "King Zora Thawed": {
+        "address": 15035095,
+        "address2": null,
+        "default": 45,
+        "hint": "Zora's Domain",
+        "scene": 88,
+        "type": "NPC"
+    },
+    "Kokiri Forest Storms Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 12,
+        "hint": "Kokiri Forest",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Kokiri Shop Item 1": {
+        "address": 13049552,
+        "address2": null,
+        "default": 48,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 2": {
+        "address": 13049560,
+        "address2": null,
+        "default": 49,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 3": {
+        "address": 13049568,
+        "address2": null,
+        "default": 50,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 4": {
+        "address": 13049576,
+        "address2": null,
+        "default": 51,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 5": {
+        "address": 13049584,
+        "address2": null,
+        "default": 52,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 6": {
+        "address": 13049592,
+        "address2": null,
+        "default": 53,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 7": {
+        "address": 13049600,
+        "address2": null,
+        "default": 54,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Shop Item 8": {
+        "address": 13049608,
+        "address2": null,
+        "default": 55,
+        "hint": "Kokiri Forest",
+        "scene": 45,
+        "type": "Shop"
+    },
+    "Kokiri Sword Chest": {
+        "address": 34234690,
+        "address2": null,
+        "default": 1248,
+        "hint": "Kokiri Forest",
+        "scene": 85,
+        "type": "Chest"
+    },
+    "LH Grotto Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Lake Hylia",
+        "scene": 4,
+        "type": "GrottoNPC"
+    },
+    "LH Grotto Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Lake Hylia",
+        "scene": 4,
+        "type": "GrottoNPC"
+    },
+    "LH Grotto Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Lake Hylia",
+        "scene": 4,
+        "type": "GrottoNPC"
+    },
+    "LLR Grotto Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "Lon Lon Ranch",
+        "scene": 10,
+        "type": "GrottoNPC"
+    },
+    "LLR Grotto Deku Scrub Bombs": {
+        "address": null,
+        "address2": null,
+        "default": 55,
+        "hint": "Lon Lon Ranch",
+        "scene": 10,
+        "type": "GrottoNPC"
+    },
+    "LLR Grotto Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "Lon Lon Ranch",
+        "scene": 10,
+        "type": "GrottoNPC"
+    },
+    "LW Deku Scrub Deku Nuts": {
+        "address": null,
+        "address2": null,
+        "default": 48,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "LW Deku Scrub Deku Stick Upgrade": {
+        "address": null,
+        "address2": null,
+        "default": 119,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "LW Deku Scrub Deku Sticks": {
+        "address": null,
+        "address2": null,
+        "default": 49,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "LW Grotto Deku Scrub Arrows": {
+        "address": null,
+        "address2": null,
+        "default": 51,
+        "hint": "the Lost Woods",
+        "scene": 6,
+        "type": "GrottoNPC"
+    },
+    "LW Grotto Deku Scrub Deku Nut Upgrade": {
+        "address": null,
+        "address2": null,
+        "default": 121,
+        "hint": "the Lost Woods",
+        "scene": 6,
+        "type": "GrottoNPC"
+    },
+    "Lake Hylia Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 30,
+        "hint": "Lake Hylia",
+        "scene": 87,
+        "type": "Collectable"
+    },
+    "Lake Hylia Sun": {
+        "address": 15327730,
+        "address2": null,
+        "default": 23304,
+        "hint": "Lake Hylia",
+        "scene": 87,
+        "type": "Chest"
+    },
+    "Link the Goron": {
+        "address": 15544555,
+        "address2": 15557875,
+        "default": 44,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "NPC"
+    },
+    "Links Pocket": {
+        "address": 55052027,
+        "address2": 55052031,
+        "default": null,
+        "hint": "Link's Pocket",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Lon Lon Tower Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Lon Lon Ranch",
+        "scene": 76,
+        "type": "Collectable"
+    },
+    "Lost Woods Generic Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 20,
+        "hint": "the Lost Woods",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "MQ Boomerang Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 4294,
+        "hint": "Jabu Jabu's Belly",
+        "scene": 2,
+        "type": "Chest"
+    },
+    "Magic Bean Salesman": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Zora's River",
+        "scene": null,
+        "type": "Event"
+    },
+    "Malon Egg": {
+        "address": null,
+        "address2": null,
+        "default": 71,
+        "hint": "Hyrule Castle",
+        "scene": 95,
+        "type": "NPC"
+    },
+    "Man on Roof": {
+        "address": 15042531,
+        "address2": null,
+        "default": 62,
+        "hint": "Kakariko Village",
+        "scene": 82,
+        "type": "NPC"
+    },
+    "Master Sword Pedestal": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Temple of Time",
+        "scene": null,
+        "type": "Event"
+    },
+    "Mido Chest Bottom Left": {
+        "address": 49787050,
+        "address2": null,
+        "default": 22914,
+        "hint": "Kokiri Forest",
+        "scene": 40,
+        "type": "Chest"
+    },
+    "Mido Chest Bottom Right": {
+        "address": 49787066,
+        "address2": null,
+        "default": 22787,
+        "hint": "Kokiri Forest",
+        "scene": 40,
+        "type": "Chest"
+    },
+    "Mido Chest Top Left": {
+        "address": 49787018,
+        "address2": null,
+        "default": 22944,
+        "hint": "Kokiri Forest",
+        "scene": 40,
+        "type": "Chest"
+    },
+    "Mido Chest Top Right": {
+        "address": 49787034,
+        "address2": null,
+        "default": 22945,
+        "hint": "Kokiri Forest",
+        "scene": 40,
+        "type": "Chest"
+    },
+    "Mirror Shield Chest": {
+        "address": 35259086,
+        "address2": 35260130,
+        "default": 13673,
+        "hint": "Desert Colossus",
+        "scene": 92,
+        "type": "Chest"
+    },
+    "Morpha": {
+        "address": 13254175,
+        "address2": 14001065,
+        "default": 104,
+        "hint": "Water Temple",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Morpha Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Water Temple",
+        "scene": 22,
+        "type": "BossHeart"
+    },
+    "Mountain Storms Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 23,
+        "hint": "Death Mountain Trail",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Mountain Summit Fairy Reward": {
+        "address": 55055364,
+        "address2": null,
+        "default": 81,
+        "hint": "Death Mountain Trail",
+        "scene": 59,
+        "type": "NPC"
+    },
+    "Ocarina Memory Game": {
+        "address": 14624335,
+        "address2": null,
+        "default": 118,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "Ocarina of Time": {
+        "address": null,
+        "address2": null,
+        "default": 12,
+        "hint": "Hyrule Field",
+        "scene": 81,
+        "type": "NPC"
+    },
+    "Phantom Ganon": {
+        "address": 13253895,
+        "address2": 13954425,
+        "default": 102,
+        "hint": "Shadow Temple",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Phantom Ganon Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Forest Temple",
+        "scene": 20,
+        "type": "BossHeart"
+    },
+    "Queen Gohma": {
+        "address": 13250911,
+        "address2": 34051441,
+        "default": 108,
+        "hint": "Deku Tree",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Queen Gohma Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Deku Tree",
+        "scene": 17,
+        "type": "BossHeart"
+    },
+    "Redead Grotto Chest": {
+        "address": 40693878,
+        "address2": null,
+        "default": 31434,
+        "hint": "Kakariko Village",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Remote Southern Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 2,
+        "hint": "Hyrule Field",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Rolling Goron as Child": {
+        "address": 15542639,
+        "address2": 15557891,
+        "default": 52,
+        "hint": "Goron City",
+        "scene": 98,
+        "type": "NPC"
+    },
+    "SFM Grotto Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Sacred Forest Meadow",
+        "scene": 3,
+        "type": "GrottoNPC"
+    },
+    "SFM Grotto Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Sacred Forest Meadow",
+        "scene": 3,
+        "type": "GrottoNPC"
+    },
+    "Shadow Temple After Wind Enemy Chest": {
+        "address": 42176766,
+        "address2": null,
+        "default": 30856,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple After Wind Hidden Chest": {
+        "address": 42176750,
+        "address2": null,
+        "default": 26708,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Boss Key Chest": {
+        "address": 42021030,
+        "address2": null,
+        "default": 10219,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Compass Chest": {
+        "address": 41861278,
+        "address2": null,
+        "default": 6147,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Early Silver Rupee Chest": {
+        "address": 41828598,
+        "address2": null,
+        "default": 22594,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Falling Spikes Lower Chest": {
+        "address": 41947442,
+        "address2": null,
+        "default": 22853,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Falling Spikes Switch Chest": {
+        "address": 41947426,
+        "address2": null,
+        "default": 34884,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Falling Spikes Upper Chest": {
+        "address": 41947458,
+        "address2": null,
+        "default": 22662,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Collectable"
+    },
+    "Shadow Temple Hidden Floormaster Chest": {
+        "address": 42094730,
+        "address2": null,
+        "default": 30797,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Hover Boots Chest": {
+        "address": 41795786,
+        "address2": null,
+        "default": 5607,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Invisible Blades Invisible Chest": {
+        "address": 42082586,
+        "address2": null,
+        "default": 26998,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Invisible Blades Visible Chest": {
+        "address": 42082602,
+        "address2": null,
+        "default": 22668,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Invisible Spikes Chest": {
+        "address": 41980142,
+        "address2": null,
+        "default": 30857,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ After Wind Enemy Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30856,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ After Wind Hidden Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26932,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Beamos Silver Rupees Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35119,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Bomb Flower Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31053,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Boss Key Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 10219,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6145,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Early Gibdos Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2082,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Falling Spikes Lower Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22853,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Falling Spikes Switch Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34884,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Falling Spikes Upper Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22662,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 6,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Collectable"
+    },
+    "Shadow Temple MQ Hover Boots Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 5607,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Invisible Blades Invisible Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26710,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Invisible Blades Visible Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22668,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Invisible Spikes Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30857,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30787,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Near Ship Invisible Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26702,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Spike Walls Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 22666,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Stalfos Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31184,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple MQ Wind Hint Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26709,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Map Chest": {
+        "address": 41730218,
+        "address2": null,
+        "default": 6177,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Spike Walls Left Chest": {
+        "address": 42021046,
+        "address2": null,
+        "default": 22666,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Shadow Temple Wind Hint Chest": {
+        "address": 42164378,
+        "address2": null,
+        "default": 26965,
+        "hint": "Shadow Temple",
+        "scene": 7,
+        "type": "Chest"
+    },
+    "Sheik Forest Song": {
+        "address": 34277385,
+        "address2": 34277385,
+        "default": 97,
+        "hint": "Sacred Forest Meadow",
+        "scene": 86,
+        "type": "Song"
+    },
+    "Sheik at Colossus": {
+        "address": 35177853,
+        "address2": 35177853,
+        "default": 100,
+        "hint": "Desert Colossus",
+        "scene": 92,
+        "type": "Song"
+    },
+    "Sheik at Temple": {
+        "address": 38998825,
+        "address2": 38998825,
+        "default": 102,
+        "hint": "Temple of Time",
+        "scene": 67,
+        "type": "Song"
+    },
+    "Sheik in Crater": {
+        "address": 35969009,
+        "address2": 35969009,
+        "default": 98,
+        "hint": "Death Mountain Crater",
+        "scene": 97,
+        "type": "Song"
+    },
+    "Sheik in Ice Cavern": {
+        "address": 46057609,
+        "address2": 46057609,
+        "default": 99,
+        "hint": "Ice Cavern",
+        "scene": 9,
+        "type": "Song"
+    },
+    "Sheik in Kakariko": {
+        "address": 33558497,
+        "address2": 33558497,
+        "default": 101,
+        "hint": "Kakariko Village",
+        "scene": 82,
+        "type": "Song"
+    },
+    "Shield Grave Chest": {
+        "address": 52998294,
+        "address2": null,
+        "default": 21824,
+        "hint": "the Graveyard",
+        "scene": 64,
+        "type": "Chest"
+    },
+    "Silver Gauntlets Chest": {
+        "address": 35259102,
+        "address2": 35260146,
+        "default": 1707,
+        "hint": "Desert Colossus",
+        "scene": 92,
+        "type": "Chest"
+    },
+    "Skull Kid": {
+        "address": 14618419,
+        "address2": 14618267,
+        "default": 62,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "Song at Windmill": {
+        "address": 14953479,
+        "address2": 14953355,
+        "default": 108,
+        "hint": "Kakariko Village",
+        "scene": 72,
+        "type": "Song"
+    },
+    "Song from Composer Grave": {
+        "address": 53651569,
+        "address2": 53651569,
+        "default": 106,
+        "hint": "the Graveyard",
+        "scene": 65,
+        "type": "Song"
+    },
+    "Song from Malon": {
+        "address": 14150483,
+        "address2": 14150607,
+        "default": 104,
+        "hint": "Lon Lon Ranch",
+        "scene": 99,
+        "type": "Song"
+    },
+    "Song from Ocarina of Time": {
+        "address": 38993033,
+        "address2": 38993033,
+        "default": 107,
+        "hint": "Hyrule Field",
+        "scene": 81,
+        "type": "Song"
+    },
+    "Song from Saria": {
+        "address": 34282929,
+        "address2": 34282929,
+        "default": 105,
+        "hint": "Sacred Forest Meadow",
+        "scene": 86,
+        "type": "Song"
+    },
+    "Spirit Temple Boss Key Chest": {
+        "address": 45760866,
+        "address2": null,
+        "default": 10218,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Child Climb East Chest": {
+        "address": 45207842,
+        "address2": null,
+        "default": 32870,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Child Climb North Chest": {
+        "address": 45207858,
+        "address2": null,
+        "default": 34092,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Child Left Chest": {
+        "address": 45191354,
+        "address2": null,
+        "default": 21800,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Child Right Chest": {
+        "address": 45166978,
+        "address2": null,
+        "default": 34880,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Compass Chest": {
+        "address": 45527178,
+        "address2": null,
+        "default": 14340,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Early Adult Right Chest": {
+        "address": 45490298,
+        "address2": null,
+        "default": 22599,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple First Mirror Left Chest": {
+        "address": 45547734,
+        "address2": null,
+        "default": 36750,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple First Mirror Right Chest": {
+        "address": 45547718,
+        "address2": null,
+        "default": 35085,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Hallway Left Invisible Chest": {
+        "address": 45678774,
+        "address2": null,
+        "default": 26900,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Hallway Right Invisible Chest": {
+        "address": 45678790,
+        "address2": null,
+        "default": 26901,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Beamos Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31097,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Boss Key Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 10213,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Child Center Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34909,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Child Climb North Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 28774,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Child Climb South Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34892,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Child Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 30792,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47107,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Entrance Back Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34910,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Entrance Back Right Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 32895,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Entrance Front Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 20602,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Entrance Front Right Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34907,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Ice Trap Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 24472,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Lower Adult Left Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 31396,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Lower Adult Right Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 23207,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Lower NE Main Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34959,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 2080,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Mirror Puzzle Invisible Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26706,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Silver Block Hallway Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34908,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Sun Block Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 35073,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple MQ Upper NE Main Room Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 26882,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Map Chest": {
+        "address": 45240614,
+        "address2": null,
+        "default": 47139,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple NE Main Room Chest": {
+        "address": 45240646,
+        "address2": null,
+        "default": 34959,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Near Four Armos Chest": {
+        "address": 45740150,
+        "address2": null,
+        "default": 22597,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Nut Crate": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Spirit Temple",
+        "scene": null,
+        "type": "Event"
+    },
+    "Spirit Temple Statue Hand Chest": {
+        "address": 45240630,
+        "address2": null,
+        "default": 34882,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Sun Block Room Chest": {
+        "address": 45384114,
+        "address2": null,
+        "default": 34881,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Spirit Temple Topmost Chest": {
+        "address": 45936894,
+        "address2": null,
+        "default": 36082,
+        "hint": "Spirit Temple",
+        "scene": 6,
+        "type": "Chest"
+    },
+    "Talons Chickens": {
+        "address": 13374699,
+        "address2": null,
+        "default": 20,
+        "hint": "Lon Lon Ranch",
+        "scene": 76,
+        "type": "NPC"
+    },
+    "Target in Woods": {
+        "address": 15047903,
+        "address2": null,
+        "default": 96,
+        "hint": "the Lost Woods",
+        "scene": 91,
+        "type": "NPC"
+    },
+    "Tektite Grotto Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Hyrule Field",
+        "scene": 62,
+        "type": "Collectable"
+    },
+    "Top of Crater Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 26,
+        "hint": "Death Mountain Crater",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Treasure Chest Game": {
+        "address": null,
+        "address2": null,
+        "default": 10,
+        "hint": "the Market",
+        "scene": 16,
+        "type": "Chest"
+    },
+    "Twinrova": {
+        "address": 13254323,
+        "address2": 13869041,
+        "default": 105,
+        "hint": "Spirit Temple",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Twinrova Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Spirit Temple",
+        "scene": 23,
+        "type": "BossHeart"
+    },
+    "Underwater Bottle": {
+        "address": 14553339,
+        "address2": null,
+        "default": 21,
+        "hint": "Lake Hylia",
+        "scene": 87,
+        "type": "NPC"
+    },
+    "Valley Grotto Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Gerudo Valley",
+        "scene": 5,
+        "type": "GrottoNPC"
+    },
+    "Valley Grotto Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Gerudo Valley",
+        "scene": 5,
+        "type": "GrottoNPC"
+    },
+    "Volvagia": {
+        "address": 13254035,
+        "address2": 13697333,
+        "default": 103,
+        "hint": "Fire Temple",
+        "scene": null,
+        "type": "Boss"
+    },
+    "Volvagia Heart": {
+        "address": null,
+        "address2": null,
+        "default": 79,
+        "hint": "Fire Temple",
+        "scene": 21,
+        "type": "BossHeart"
+    },
+    "Water Temple Boss Key Chest": {
+        "address": 40202342,
+        "address2": null,
+        "default": 10213,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Central Bow Target Chest": {
+        "address": 40292466,
+        "address2": null,
+        "default": 22600,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Central Pillar Chest": {
+        "address": 39776470,
+        "address2": null,
+        "default": 22598,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Compass Chest": {
+        "address": 39829714,
+        "address2": null,
+        "default": 2057,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Cracked Wall Chest": {
+        "address": 40218790,
+        "address2": null,
+        "default": 22592,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Dark Link Chest": {
+        "address": 39948410,
+        "address2": null,
+        "default": 295,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Dragon Chest": {
+        "address": 39973050,
+        "address2": null,
+        "default": 22602,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple MQ Boss Key Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 10213,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple MQ Central Pillar Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 34886,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple MQ Compass Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 6145,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple MQ Freestanding Key": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Collectable"
+    },
+    "Water Temple MQ Longshot Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 45344,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple MQ Map Chest": {
+        "address": 0,
+        "address2": null,
+        "default": 47138,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Map Chest": {
+        "address": 40276134,
+        "address2": null,
+        "default": 6178,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple River Chest": {
+        "address": 40321246,
+        "address2": null,
+        "default": 22595,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Water Temple Torches Chest": {
+        "address": 40255654,
+        "address2": null,
+        "default": 30785,
+        "hint": "Water Temple",
+        "scene": 5,
+        "type": "Chest"
+    },
+    "Windmill Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Kakariko Village",
+        "scene": 72,
+        "type": "Collectable"
+    },
+    "Wolfos Grotto Chest": {
+        "address": 40808566,
+        "address2": null,
+        "default": 31409,
+        "hint": "Sacred Forest Meadow",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "ZR Grotto Deku Scrub Green Potion": {
+        "address": null,
+        "address2": null,
+        "default": 58,
+        "hint": "Zora's River",
+        "scene": 2,
+        "type": "GrottoNPC"
+    },
+    "ZR Grotto Deku Scrub Red Potion": {
+        "address": null,
+        "address2": null,
+        "default": 57,
+        "hint": "Zora's River",
+        "scene": 2,
+        "type": "GrottoNPC"
+    },
+    "Zelda": {
+        "address": 55055360,
+        "address2": null,
+        "default": 90,
+        "hint": "Temple of Time",
+        "scene": 67,
+        "type": "NPC"
+    },
+    "Zeldas Letter": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Hyrule Castle",
+        "scene": null,
+        "type": "NPC"
+    },
+    "Zora River Lower Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 4,
+        "hint": "Zora's River",
+        "scene": 84,
+        "type": "Collectable"
+    },
+    "Zora River Plateau Open Grotto Chest": {
+        "address": null,
+        "address2": null,
+        "default": 9,
+        "hint": "Zora's River",
+        "scene": 62,
+        "type": "Chest"
+    },
+    "Zora River Upper Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 11,
+        "hint": "Zora's River",
+        "scene": 84,
+        "type": "Collectable"
+    },
+    "Zora Shop Item 1": {
+        "address": 13050000,
+        "address2": null,
+        "default": 48,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 2": {
+        "address": 13050008,
+        "address2": null,
+        "default": 49,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 3": {
+        "address": 13050016,
+        "address2": null,
+        "default": 50,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 4": {
+        "address": 13050024,
+        "address2": null,
+        "default": 51,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 5": {
+        "address": 13050032,
+        "address2": null,
+        "default": 52,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 6": {
+        "address": 13050040,
+        "address2": null,
+        "default": 53,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 7": {
+        "address": 13050048,
+        "address2": null,
+        "default": 54,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zora Shop Item 8": {
+        "address": 13050056,
+        "address2": null,
+        "default": 55,
+        "hint": "Zora's Domain",
+        "scene": 47,
+        "type": "Shop"
+    },
+    "Zoras Domain Nut Pot": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Zora's Domain",
+        "scene": null,
+        "type": "Event"
+    },
+    "Zoras Domain Stick Pot": {
+        "address": null,
+        "address2": null,
+        "default": null,
+        "hint": "Zora's Domain",
+        "scene": null,
+        "type": "Event"
+    },
+    "Zoras Domain Torch Run": {
+        "address": 34615654,
+        "address2": null,
+        "default": 47040,
+        "hint": "Zora's Domain",
+        "scene": 88,
+        "type": "Chest"
+    },
+    "Zoras Fountain Bottom Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 20,
+        "hint": "Zora's Fountain",
+        "scene": 89,
+        "type": "Collectable"
+    },
+    "Zoras Fountain Fairy Reward": {
+        "address": 55055361,
+        "address2": null,
+        "default": 93,
+        "hint": "Zora's Fountain",
+        "scene": 61,
+        "type": "NPC"
+    },
+    "Zoras Fountain Iceberg Freestanding PoH": {
+        "address": null,
+        "address2": null,
+        "default": 1,
+        "hint": "Zora's Fountain",
+        "scene": 89,
+        "type": "Collectable"
+    }
+}

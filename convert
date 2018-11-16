@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+"""Converts item and location tables from OoT-Randomizer to JSON."""
+
+import json
+import sys
+sys.path.insert(0, "./OoT-Randomizer")
+
+from Regions import location_table
+from Items import item_table
+
+def output(path, data):
+    """Writes JSON to file."""
+    with open(path, 'w') as out:
+        json.dump(data, out, indent=4, sort_keys=True)
+
+def main():
+    """Re-keys data from OoT-Randomizer and write it to data/"""
+    locations = {}
+    for location in location_table:
+        address, address2, default, type_, scene, hint = location_table[location]
+        locations[location] = {
+            "address": address,
+            "address2": address2,
+            "default": default,
+            "hint": hint,
+            "scene": scene,
+            "type": type_,
+        }
+    output('data/locations.json', locations)
+
+    items = {}
+    for item in item_table:
+        _, _, type_, code, index, object_, _ = item_table[item]
+        items[item] = {
+            "code": code,
+            "index": index,
+            "object": object_,
+            "type": type_,
+        }
+
+    output('data/items.json', items)
+
+if __name__ == "__main__":
+    main()

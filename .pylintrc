@@ -1,0 +1,5 @@
+[Master]
+init-hook='import sys; sys.path.append("./OoT-Randomizer")'
+
+[Messages Control]
+disable=wrong-import-position
