@@ -1,0 +1,4 @@
+[submodule "OoT-Randomizer"]
+	path = OoT-Randomizer
+	url = https://github.com/AmazingAmpharos/OoT-Randomizer.git
+    branch = v3.0
