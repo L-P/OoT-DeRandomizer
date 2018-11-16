@@ -19,6 +19,7 @@ def main():
     for location in location_table:
         address, address2, default, type_, scene, hint = location_table[location]
         locations[location] = {
+            "name": location,
             "address": address,
             "address2": address2,
             "default": default,
@@ -30,9 +31,9 @@ def main():
 
     items = {}
     for item in item_table:
-        _, _, type_, code, index, object_, _ = item_table[item]
+        _, _, type_, _, index, object_, _ = item_table[item]
         items[item] = {
-            "code": code,
+            "name": item,
             "index": index,
             "object": object_,
             "type": type_,
