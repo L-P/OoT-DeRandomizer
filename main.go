@@ -2,16 +2,21 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"log"
 	"os"
 )
 
 func main() {
-	if len(os.Args) != 2 {
+	settings := Settings{}
+	flag.StringVar(&settings.Quest, "quest", QuestTypeNormal, "normal|mixed|master")
+	flag.Parse()
+
+	if len(flag.Args()) != 1 {
 		os.Exit(1)
 	}
 
-	romPath := os.Args[1]
+	romPath := flag.Args()[0]
 	log.Printf("Working on ROM %s", romPath)
 
 	rom, err := NewROM(romPath)
@@ -32,7 +37,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	if err := outputLocationToItem(rom, items, locations); err != nil {
+	if err := outputLocationToItem(settings, rom, items, locations); err != nil {
 		log.Fatal(err)
 	}
 }

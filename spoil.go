@@ -3,15 +3,17 @@ package main
 import (
 	"errors"
 	"fmt"
+	"strings"
 )
 
 func outputLocationToItem(
+	settings Settings,
 	rom *ROM,
 	items map[byte]Item,
 	locations map[string]Location,
 ) error {
 	for _, v := range rom.Overrides {
-		l, i, err := findLocationItem(v, items, locations)
+		l, i, err := findLocationItem(settings, v, items, locations)
 		if err != nil {
 			continue
 		}
@@ -23,11 +25,16 @@ func outputLocationToItem(
 }
 
 func findLocationItem(
+	settings Settings,
 	o ItemOverride,
 	items map[byte]Item,
 	locations map[string]Location,
 ) (Location, Item, error) {
 	for _, location := range locations {
+		if strings.Index(location.Name, "MQ") > -1 && settings.Quest == QuestTypeNormal {
+			continue
+		}
+
 		def := byte(location.Default & 0x00FF)
 		if location.Type == "Chest" {
 			def &= 0x1F
