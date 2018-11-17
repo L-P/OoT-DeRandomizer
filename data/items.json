@@ -1,992 +1,992 @@
-{
-    "Arrows (10)": {
+[
+    {
         "index": 184,
         "name": "Arrows (10)",
         "type": null
     },
-    "Arrows (30)": {
+    {
         "index": 185,
         "name": "Arrows (30)",
         "type": null
     },
-    "Arrows (5)": {
+    {
         "index": 183,
         "name": "Arrows (5)",
         "type": null
     },
-    "Biggoron Sword": {
+    {
         "index": 181,
         "name": "Biggoron Sword",
         "type": null
     },
-    "Bolero of Fire": {
+    {
         "index": 197,
         "name": "Bolero of Fire",
         "type": "Song"
     },
-    "Bomb Bag": {
+    {
         "index": 130,
         "name": "Bomb Bag",
         "type": null
     },
-    "Bombchus": {
+    {
         "index": 194,
         "name": "Bombchus",
         "type": null
     },
-    "Bombchus (10)": {
+    {
         "index": 3,
         "name": "Bombchus (10)",
         "type": null
     },
-    "Bombchus (20)": {
+    {
         "index": 107,
         "name": "Bombchus (20)",
         "type": null
     },
-    "Bombchus (5)": {
+    {
         "index": 106,
         "name": "Bombchus (5)",
         "type": null
     },
-    "Bombs (10)": {
+    {
         "index": 187,
         "name": "Bombs (10)",
         "type": null
     },
-    "Bombs (20)": {
+    {
         "index": 188,
         "name": "Bombs (20)",
         "type": null
     },
-    "Bombs (5)": {
+    {
         "index": 186,
         "name": "Bombs (5)",
         "type": null
     },
-    "Boomerang": {
+    {
         "index": 6,
         "name": "Boomerang",
         "type": null
     },
-    "Boss Key": {
+    {
         "index": 63,
         "name": "Boss Key",
         "type": "BossKey"
     },
-    "Boss Key (Fire Temple)": {
+    {
         "index": 147,
         "name": "Boss Key (Fire Temple)",
         "type": "BossKey"
     },
-    "Boss Key (Forest Temple)": {
+    {
         "index": 146,
         "name": "Boss Key (Forest Temple)",
         "type": "BossKey"
     },
-    "Boss Key (Ganons Castle)": {
+    {
         "index": 151,
         "name": "Boss Key (Ganons Castle)",
         "type": "BossKey"
     },
-    "Boss Key (Shadow Temple)": {
+    {
         "index": 150,
         "name": "Boss Key (Shadow Temple)",
         "type": "BossKey"
     },
-    "Boss Key (Spirit Temple)": {
+    {
         "index": 149,
         "name": "Boss Key (Spirit Temple)",
         "type": "BossKey"
     },
-    "Boss Key (Water Temple)": {
+    {
         "index": 148,
         "name": "Boss Key (Water Temple)",
         "type": "BossKey"
     },
-    "Bottle": {
+    {
         "index": 15,
         "name": "Bottle",
         "type": null
     },
-    "Bottle with Big Poe": {
+    {
         "index": 144,
         "name": "Bottle with Big Poe",
         "type": null
     },
-    "Bottle with Blue Fire": {
+    {
         "index": 142,
         "name": "Bottle with Blue Fire",
         "type": null
     },
-    "Bottle with Blue Potion": {
+    {
         "index": 139,
         "name": "Bottle with Blue Potion",
         "type": null
     },
-    "Bottle with Bugs": {
+    {
         "index": 143,
         "name": "Bottle with Bugs",
         "type": null
     },
-    "Bottle with Fairy": {
+    {
         "index": 140,
         "name": "Bottle with Fairy",
         "type": null
     },
-    "Bottle with Fish": {
+    {
         "index": 141,
         "name": "Bottle with Fish",
         "type": null
     },
-    "Bottle with Green Potion": {
+    {
         "index": 138,
         "name": "Bottle with Green Potion",
         "type": null
     },
-    "Bottle with Letter": {
+    {
         "index": 21,
         "name": "Bottle with Letter",
         "type": null
     },
-    "Bottle with Milk": {
+    {
         "index": 20,
         "name": "Bottle with Milk",
         "type": null
     },
-    "Bottle with Poe": {
+    {
         "index": 145,
         "name": "Bottle with Poe",
         "type": null
     },
-    "Bottle with Red Potion": {
+    {
         "index": 137,
         "name": "Bottle with Red Potion",
         "type": null
     },
-    "Bow": {
+    {
         "index": 131,
         "name": "Bow",
         "type": null
     },
-    "Broken Sword": {
+    {
         "index": 34,
         "name": "Broken Sword",
         "type": null
     },
-    "Bunny Hood": {
+    {
         "index": 27,
         "name": "Bunny Hood",
         "type": null
     },
-    "Buy Arrows (10)": {
+    {
         "index": 44,
         "name": "Buy Arrows (10)",
         "type": "Shop"
     },
-    "Buy Arrows (30)": {
+    {
         "index": 1,
         "name": "Buy Arrows (30)",
         "type": "Shop"
     },
-    "Buy Arrows (50)": {
+    {
         "index": 2,
         "name": "Buy Arrows (50)",
         "type": "Shop"
     },
-    "Buy Blue Fire": {
+    {
         "index": 39,
         "name": "Buy Blue Fire",
         "type": "Shop"
     },
-    "Buy Blue Potion": {
+    {
         "index": 10,
         "name": "Buy Blue Potion",
         "type": "Shop"
     },
-    "Buy Bombchu (10)": {
+    {
         "index": 21,
         "name": "Buy Bombchu (10)",
         "type": "Shop"
     },
-    "Buy Bombchu (20)": {
+    {
         "index": 22,
         "name": "Buy Bombchu (20)",
         "type": "Shop"
     },
-    "Buy Bombchu (5)": {
+    {
         "index": 24,
         "name": "Buy Bombchu (5)",
         "type": "Shop"
     },
-    "Buy Bombs (10)": {
+    {
         "index": 6,
         "name": "Buy Bombs (10)",
         "type": "Shop"
     },
-    "Buy Bombs (20)": {
+    {
         "index": 45,
         "name": "Buy Bombs (20)",
         "type": "Shop"
     },
-    "Buy Bombs (30)": {
+    {
         "index": 46,
         "name": "Buy Bombs (30)",
         "type": "Shop"
     },
-    "Buy Bombs (5) [25]": {
+    {
         "index": 3,
         "name": "Buy Bombs (5) [25]",
         "type": "Shop"
     },
-    "Buy Bombs (5) [35]": {
+    {
         "index": 47,
         "name": "Buy Bombs (5) [35]",
         "type": "Shop"
     },
-    "Buy Bottle Bug": {
+    {
         "index": 40,
         "name": "Buy Bottle Bug",
         "type": "Shop"
     },
-    "Buy Deku Nut (10)": {
+    {
         "index": 4,
         "name": "Buy Deku Nut (10)",
         "type": "Shop"
     },
-    "Buy Deku Nut (5)": {
+    {
         "index": 0,
         "name": "Buy Deku Nut (5)",
         "type": "Shop"
     },
-    "Buy Deku Seeds (30)": {
+    {
         "index": 29,
         "name": "Buy Deku Seeds (30)",
         "type": "Shop"
     },
-    "Buy Deku Shield": {
+    {
         "index": 13,
         "name": "Buy Deku Shield",
         "type": "Shop"
     },
-    "Buy Deku Stick (1)": {
+    {
         "index": 5,
         "name": "Buy Deku Stick (1)",
         "type": "Shop"
     },
-    "Buy Fairy's Spirit": {
+    {
         "index": 43,
         "name": "Buy Fairy's Spirit",
         "type": "Shop"
     },
-    "Buy Fish": {
+    {
         "index": 7,
         "name": "Buy Fish",
         "type": "Shop"
     },
-    "Buy Goron Tunic": {
+    {
         "index": 14,
         "name": "Buy Goron Tunic",
         "type": "Shop"
     },
-    "Buy Green Potion": {
+    {
         "index": 9,
         "name": "Buy Green Potion",
         "type": "Shop"
     },
-    "Buy Heart": {
+    {
         "index": 16,
         "name": "Buy Heart",
         "type": "Shop"
     },
-    "Buy Hylian Shield": {
+    {
         "index": 12,
         "name": "Buy Hylian Shield",
         "type": "Shop"
     },
-    "Buy Poe": {
+    {
         "index": 42,
         "name": "Buy Poe",
         "type": "Shop"
     },
-    "Buy Red Potion [30]": {
+    {
         "index": 8,
         "name": "Buy Red Potion [30]",
         "type": "Shop"
     },
-    "Buy Red Potion [40]": {
+    {
         "index": 48,
         "name": "Buy Red Potion [40]",
         "type": "Shop"
     },
-    "Buy Red Potion [50]": {
+    {
         "index": 49,
         "name": "Buy Red Potion [50]",
         "type": "Shop"
     },
-    "Buy Zora Tunic": {
+    {
         "index": 15,
         "name": "Buy Zora Tunic",
         "type": "Shop"
     },
-    "Carpenter Rescue": {
+    {
         "index": null,
         "name": "Carpenter Rescue",
         "type": "Event"
     },
-    "Claim Check": {
+    {
         "index": 38,
         "name": "Claim Check",
         "type": null
     },
-    "Cojiro": {
+    {
         "index": 14,
         "name": "Cojiro",
         "type": null
     },
-    "Compass": {
+    {
         "index": 64,
         "name": "Compass",
         "type": "Compass"
     },
-    "Compass (Bottom of the Well)": {
+    {
         "index": 160,
         "name": "Compass (Bottom of the Well)",
         "type": "Compass"
     },
-    "Compass (Deku Tree)": {
+    {
         "index": 152,
         "name": "Compass (Deku Tree)",
         "type": "Compass"
     },
-    "Compass (Dodongos Cavern)": {
+    {
         "index": 153,
         "name": "Compass (Dodongos Cavern)",
         "type": "Compass"
     },
-    "Compass (Fire Temple)": {
+    {
         "index": 156,
         "name": "Compass (Fire Temple)",
         "type": "Compass"
     },
-    "Compass (Forest Temple)": {
+    {
         "index": 155,
         "name": "Compass (Forest Temple)",
         "type": "Compass"
     },
-    "Compass (Ice Cavern)": {
+    {
         "index": 161,
         "name": "Compass (Ice Cavern)",
         "type": "Compass"
     },
-    "Compass (Jabu Jabus Belly)": {
+    {
         "index": 154,
         "name": "Compass (Jabu Jabus Belly)",
         "type": "Compass"
     },
-    "Compass (Shadow Temple)": {
+    {
         "index": 159,
         "name": "Compass (Shadow Temple)",
         "type": "Compass"
     },
-    "Compass (Spirit Temple)": {
+    {
         "index": 158,
         "name": "Compass (Spirit Temple)",
         "type": "Compass"
     },
-    "Compass (Water Temple)": {
+    {
         "index": 157,
         "name": "Compass (Water Temple)",
         "type": "Compass"
     },
-    "Deku Nut Capacity": {
+    {
         "index": 135,
         "name": "Deku Nut Capacity",
         "type": null
     },
-    "Deku Nut Drop": {
+    {
         "index": null,
         "name": "Deku Nut Drop",
         "type": "Event"
     },
-    "Deku Nuts (10)": {
+    {
         "index": 190,
         "name": "Deku Nuts (10)",
         "type": null
     },
-    "Deku Nuts (5)": {
+    {
         "index": 189,
         "name": "Deku Nuts (5)",
         "type": null
     },
-    "Deku Seeds (30)": {
+    {
         "index": 209,
         "name": "Deku Seeds (30)",
         "type": null
     },
-    "Deku Shield": {
+    {
         "index": 210,
         "name": "Deku Shield",
         "type": null
     },
-    "Deku Stick (1)": {
+    {
         "index": 208,
         "name": "Deku Stick (1)",
         "type": null
     },
-    "Deku Stick Capacity": {
+    {
         "index": 136,
         "name": "Deku Stick Capacity",
         "type": null
     },
-    "Deku Stick Drop": {
+    {
         "index": null,
         "name": "Deku Stick Drop",
         "type": "Event"
     },
-    "Dins Fire": {
+    {
         "index": 92,
         "name": "Dins Fire",
         "type": null
     },
-    "Double Defense": {
+    {
         "index": 191,
         "name": "Double Defense",
         "type": null
     },
-    "Epona": {
+    {
         "index": null,
         "name": "Epona",
         "type": "Event"
     },
-    "Eponas Song": {
+    {
         "index": 203,
         "name": "Eponas Song",
         "type": "Song"
     },
-    "Eyeball Frog": {
+    {
         "index": 36,
         "name": "Eyeball Frog",
         "type": null
     },
-    "Eyedrops": {
+    {
         "index": 37,
         "name": "Eyedrops",
         "type": null
     },
-    "Fairy Ocarina": {
+    {
         "index": 59,
         "name": "Fairy Ocarina",
         "type": null
     },
-    "Farores Wind": {
+    {
         "index": 93,
         "name": "Farores Wind",
         "type": null
     },
-    "Fire Arrows": {
+    {
         "index": 88,
         "name": "Fire Arrows",
         "type": null
     },
-    "Fire Medallion": {
+    {
         "index": null,
         "name": "Fire Medallion",
         "type": "Event"
     },
-    "Fire Trial Clear": {
+    {
         "index": null,
         "name": "Fire Trial Clear",
         "type": "Event"
     },
-    "Forest Medallion": {
+    {
         "index": null,
         "name": "Forest Medallion",
         "type": "Event"
     },
-    "Forest Trial Clear": {
+    {
         "index": null,
         "name": "Forest Trial Clear",
         "type": "Event"
     },
-    "Gerudo Mask": {
+    {
         "index": 83,
         "name": "Gerudo Mask",
         "type": null
     },
-    "Gerudo Membership Card": {
+    {
         "index": 58,
         "name": "Gerudo Membership Card",
         "type": null
     },
-    "Gold Skulltula Token": {
+    {
         "index": 91,
         "name": "Gold Skulltula Token",
         "type": "Token"
     },
-    "Goron Mask": {
+    {
         "index": 81,
         "name": "Goron Mask",
         "type": null
     },
-    "Goron Ruby": {
+    {
         "index": null,
         "name": "Goron Ruby",
         "type": "Event"
     },
-    "Goron Tunic": {
+    {
         "index": 44,
         "name": "Goron Tunic",
         "type": null
     },
-    "Hammer": {
+    {
         "index": 13,
         "name": "Hammer",
         "type": null
     },
-    "Heart Container": {
+    {
         "index": 61,
         "name": "Heart Container",
         "type": null
     },
-    "Heart Container (Boss)": {
+    {
         "index": 79,
         "name": "Heart Container (Boss)",
         "type": null
     },
-    "Hover Boots": {
+    {
         "index": 47,
         "name": "Hover Boots",
         "type": null
     },
-    "Hylian Shield": {
+    {
         "index": 211,
         "name": "Hylian Shield",
         "type": null
     },
-    "Ice Arrows": {
+    {
         "index": 89,
         "name": "Ice Arrows",
         "type": null
     },
-    "Ice Trap": {
+    {
         "index": 124,
         "name": "Ice Trap",
         "type": null
     },
-    "Iron Boots": {
+    {
         "index": 46,
         "name": "Iron Boots",
         "type": null
     },
-    "Keaton Mask": {
+    {
         "index": 26,
         "name": "Keaton Mask",
         "type": null
     },
-    "Kokiri Emerald": {
+    {
         "index": null,
         "name": "Kokiri Emerald",
         "type": "Event"
     },
-    "Kokiri Sword": {
+    {
         "index": 39,
         "name": "Kokiri Sword",
         "type": null
     },
-    "Lens of Truth": {
+    {
         "index": 10,
         "name": "Lens of Truth",
         "type": null
     },
-    "Light Arrows": {
+    {
         "index": 90,
         "name": "Light Arrows",
         "type": null
     },
-    "Light Medallion": {
+    {
         "index": null,
         "name": "Light Medallion",
         "type": "Event"
     },
-    "Light Trial Clear": {
+    {
         "index": null,
         "name": "Light Trial Clear",
         "type": "Event"
     },
-    "Magic Bean": {
+    {
         "index": 22,
         "name": "Magic Bean",
         "type": null
     },
-    "Magic Meter": {
+    {
         "index": 192,
         "name": "Magic Meter",
         "type": null
     },
-    "Map": {
+    {
         "index": 65,
         "name": "Map",
         "type": "Map"
     },
-    "Map (Bottom of the Well)": {
+    {
         "index": 170,
         "name": "Map (Bottom of the Well)",
         "type": "Map"
     },
-    "Map (Deku Tree)": {
+    {
         "index": 162,
         "name": "Map (Deku Tree)",
         "type": "Map"
     },
-    "Map (Dodongos Cavern)": {
+    {
         "index": 163,
         "name": "Map (Dodongos Cavern)",
         "type": "Map"
     },
-    "Map (Fire Temple)": {
+    {
         "index": 166,
         "name": "Map (Fire Temple)",
         "type": "Map"
     },
-    "Map (Forest Temple)": {
+    {
         "index": 165,
         "name": "Map (Forest Temple)",
         "type": "Map"
     },
-    "Map (Ice Cavern)": {
+    {
         "index": 171,
         "name": "Map (Ice Cavern)",
         "type": "Map"
     },
-    "Map (Jabu Jabus Belly)": {
+    {
         "index": 164,
         "name": "Map (Jabu Jabus Belly)",
         "type": "Map"
     },
-    "Map (Shadow Temple)": {
+    {
         "index": 169,
         "name": "Map (Shadow Temple)",
         "type": "Map"
     },
-    "Map (Spirit Temple)": {
+    {
         "index": 168,
         "name": "Map (Spirit Temple)",
         "type": "Map"
     },
-    "Map (Water Temple)": {
+    {
         "index": 167,
         "name": "Map (Water Temple)",
         "type": "Map"
     },
-    "Mask of Truth": {
+    {
         "index": 28,
         "name": "Mask of Truth",
         "type": null
     },
-    "Master Sword": {
+    {
         "index": null,
         "name": "Master Sword",
         "type": null
     },
-    "Minuet of Forest": {
+    {
         "index": 196,
         "name": "Minuet of Forest",
         "type": "Song"
     },
-    "Mirror Shield": {
+    {
         "index": 43,
         "name": "Mirror Shield",
         "type": null
     },
-    "Nayrus Love": {
+    {
         "index": 94,
         "name": "Nayrus Love",
         "type": null
     },
-    "Nocturne of Shadow": {
+    {
         "index": 200,
         "name": "Nocturne of Shadow",
         "type": "Song"
     },
-    "Ocarina": {
+    {
         "index": 195,
         "name": "Ocarina",
         "type": null
     },
-    "Ocarina of Time": {
+    {
         "index": 12,
         "name": "Ocarina of Time",
         "type": null
     },
-    "Odd Mushroom": {
+    {
         "index": 31,
         "name": "Odd Mushroom",
         "type": null
     },
-    "Odd Potion": {
+    {
         "index": 32,
         "name": "Odd Potion",
         "type": null
     },
-    "Piece of Heart": {
+    {
         "index": 62,
         "name": "Piece of Heart",
         "type": null
     },
-    "Piece of Heart (Treasure Chest Game)": {
+    {
         "index": 118,
         "name": "Piece of Heart (Treasure Chest Game)",
         "type": null
     },
-    "Poachers Saw": {
+    {
         "index": 33,
         "name": "Poachers Saw",
         "type": null
     },
-    "Pocket Cucco": {
+    {
         "index": 30,
         "name": "Pocket Cucco",
         "type": null
     },
-    "Pocket Egg": {
+    {
         "index": 29,
         "name": "Pocket Egg",
         "type": null
     },
-    "Prelude of Light": {
+    {
         "index": 201,
         "name": "Prelude of Light",
         "type": "Song"
     },
-    "Prescription": {
+    {
         "index": 35,
         "name": "Prescription",
         "type": null
     },
-    "Progressive Hookshot": {
+    {
         "index": 128,
         "name": "Progressive Hookshot",
         "type": null
     },
-    "Progressive Scale": {
+    {
         "index": 134,
         "name": "Progressive Scale",
         "type": null
     },
-    "Progressive Strength Upgrade": {
+    {
         "index": 129,
         "name": "Progressive Strength Upgrade",
         "type": null
     },
-    "Progressive Wallet": {
+    {
         "index": 133,
         "name": "Progressive Wallet",
         "type": null
     },
-    "Recovery Heart": {
+    {
         "index": 182,
         "name": "Recovery Heart",
         "type": null
     },
-    "Requiem of Spirit": {
+    {
         "index": 199,
         "name": "Requiem of Spirit",
         "type": "Song"
     },
-    "Rupee (1)": {
+    {
         "index": 76,
         "name": "Rupee (1)",
         "type": null
     },
-    "Rupee (Treasure Chest Game)": {
+    {
         "index": 114,
         "name": "Rupee (Treasure Chest Game)",
         "type": null
     },
-    "Rupees (20)": {
+    {
         "index": 78,
         "name": "Rupees (20)",
         "type": null
     },
-    "Rupees (200)": {
+    {
         "index": 86,
         "name": "Rupees (200)",
         "type": null
     },
-    "Rupees (5)": {
+    {
         "index": 77,
         "name": "Rupees (5)",
         "type": null
     },
-    "Rupees (50)": {
+    {
         "index": 85,
         "name": "Rupees (50)",
         "type": null
     },
-    "Sarias Song": {
+    {
         "index": 204,
         "name": "Sarias Song",
         "type": "Song"
     },
-    "Serenade of Water": {
+    {
         "index": 198,
         "name": "Serenade of Water",
         "type": "Song"
     },
-    "Shadow Medallion": {
+    {
         "index": null,
         "name": "Shadow Medallion",
         "type": "Event"
     },
-    "Shadow Trial Clear": {
+    {
         "index": null,
         "name": "Shadow Trial Clear",
         "type": "Event"
     },
-    "Skull Mask": {
+    {
         "index": 23,
         "name": "Skull Mask",
         "type": null
     },
-    "Slingshot": {
+    {
         "index": 132,
         "name": "Slingshot",
         "type": null
     },
-    "Small Key": {
+    {
         "index": 66,
         "name": "Small Key",
         "type": "SmallKey"
     },
-    "Small Key (Bottom of the Well)": {
+    {
         "index": 177,
         "name": "Small Key (Bottom of the Well)",
         "type": "SmallKey"
     },
-    "Small Key (Fire Temple)": {
+    {
         "index": 173,
         "name": "Small Key (Fire Temple)",
         "type": "SmallKey"
     },
-    "Small Key (Forest Temple)": {
+    {
         "index": 172,
         "name": "Small Key (Forest Temple)",
         "type": "SmallKey"
     },
-    "Small Key (Ganons Castle)": {
+    {
         "index": 180,
         "name": "Small Key (Ganons Castle)",
         "type": "SmallKey"
     },
-    "Small Key (Gerudo Fortress)": {
+    {
         "index": 179,
         "name": "Small Key (Gerudo Fortress)",
         "type": "FortressSmallKey"
     },
-    "Small Key (Gerudo Training Grounds)": {
+    {
         "index": 178,
         "name": "Small Key (Gerudo Training Grounds)",
         "type": "SmallKey"
     },
-    "Small Key (Shadow Temple)": {
+    {
         "index": 176,
         "name": "Small Key (Shadow Temple)",
         "type": "SmallKey"
     },
-    "Small Key (Spirit Temple)": {
+    {
         "index": 175,
         "name": "Small Key (Spirit Temple)",
         "type": "SmallKey"
     },
-    "Small Key (Water Temple)": {
+    {
         "index": 174,
         "name": "Small Key (Water Temple)",
         "type": "SmallKey"
     },
-    "Sold Out": {
+    {
         "index": 38,
         "name": "Sold Out",
         "type": "Shop"
     },
-    "Song of Storms": {
+    {
         "index": 207,
         "name": "Song of Storms",
         "type": "Song"
     },
-    "Song of Time": {
+    {
         "index": 206,
         "name": "Song of Time",
         "type": "Song"
     },
-    "Spirit Medallion": {
+    {
         "index": null,
         "name": "Spirit Medallion",
         "type": "Event"
     },
-    "Spirit Trial Clear": {
+    {
         "index": null,
         "name": "Spirit Trial Clear",
         "type": "Event"
     },
-    "Spooky Mask": {
+    {
         "index": 24,
         "name": "Spooky Mask",
         "type": null
     },
-    "Stone of Agony": {
+    {
         "index": 57,
         "name": "Stone of Agony",
         "type": null
     },
-    "Suns Song": {
+    {
         "index": 205,
         "name": "Suns Song",
         "type": "Song"
     },
-    "Triforce": {
+    {
         "index": null,
         "name": "Triforce",
         "type": "Event"
     },
-    "Water Medallion": {
+    {
         "index": null,
         "name": "Water Medallion",
         "type": "Event"
     },
-    "Water Trial Clear": {
+    {
         "index": null,
         "name": "Water Trial Clear",
         "type": "Event"
     },
-    "Weird Egg": {
+    {
         "index": 71,
         "name": "Weird Egg",
         "type": null
     },
-    "Zeldas Letter": {
+    {
         "index": null,
         "name": "Zeldas Letter",
         "type": null
     },
-    "Zeldas Lullaby": {
+    {
         "index": 202,
         "name": "Zeldas Lullaby",
         "type": "Song"
     },
-    "Zora Mask": {
+    {
         "index": 82,
         "name": "Zora Mask",
         "type": null
     },
-    "Zora Sapphire": {
+    {
         "index": null,
         "name": "Zora Sapphire",
         "type": "Event"
     },
-    "Zora Tunic": {
+    {
         "index": 45,
         "name": "Zora Tunic",
         "type": null
     }
-}
+]

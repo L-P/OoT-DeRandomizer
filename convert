@@ -15,29 +15,29 @@ def output(path, data):
 
 def main():
     """Re-keys data from OoT-Randomizer and write it to data/"""
-    locations = {}
+    locations = []
     for location in location_table:
         address, address2, default, type_, scene, _ = location_table[location]
-        locations[location] = {
+        locations.append({
             "name": location,
             "address": address,
             "address2": address2,
             "default": default,
             "scene": scene,
             "type": type_,
-        }
-    output('data/locations.json', locations)
+        })
+    output('data/locations.json', sorted(locations, key=lambda k: k['name']))
 
-    items = {}
+    items = []
     for item in item_table:
         _, _, type_, _, index, _, _ = item_table[item]
-        items[item] = {
+        items.append({
             "name": item,
             "index": index,
             "type": type_,
-        }
+        })
 
-    output('data/items.json', items)
+    output('data/items.json', sorted(items, key=lambda k: k['name']))
 
 if __name__ == "__main__":
     main()

@@ -92,3 +92,11 @@ func (r *ROM) ReadUInt16(address uint32) (uint16, error) {
 	err := binary.Read(r.file, binary.BigEndian, &v)
 	return v, err
 }
+
+// ReadUInt32 returns the UInt32 at address
+func (r *ROM) ReadUInt32(address uint32) (uint32, error) {
+	var v uint32
+	r.file.Seek(int64(address), io.SeekStart)
+	err := binary.Read(r.file, binary.BigEndian, &v)
+	return v, err
+}
