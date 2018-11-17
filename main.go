@@ -18,22 +18,26 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer rom.Close()
 
+	log.Printf("Loading item list")
 	items, err := loadItems("data/items.json")
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	log.Printf("Loading location list")
 	locations, err := loadLocations("data/locations.json")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	log.Printf("%+v\n", items)
-	log.Printf("%+v\n", locations)
-	log.Printf("%+v\n", rom)
+	if err := outputLocationToItem(rom, items, locations); err != nil {
+		log.Fatal(err)
+	}
 }
 
-func loadItems(path string) (map[uint32]Item, error) {
+func loadItems(path string) (map[byte]Item, error) {
 	r, err := os.Open(path)
 	if err != nil {
 		return nil, err
@@ -41,7 +45,7 @@ func loadItems(path string) (map[uint32]Item, error) {
 	defer r.Close()
 
 	items := make(map[string]Item, 200)
-	ret := make(map[uint32]Item)
+	ret := make(map[byte]Item)
 	if err := json.NewDecoder(r).Decode(&items); err != nil {
 		return nil, err
 	}

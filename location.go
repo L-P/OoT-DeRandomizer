@@ -5,8 +5,7 @@ type Location struct {
 	Name     string `json:"name"`
 	Address  uint32 `json:"address"`
 	Address2 uint32 `json:"address2"`
-	Default  uint32 `json:"default"`
-	Hint     string `json:"hint"`
-	Scene    uint32 `json:"scene"`
+	Default  uint16 `json:"default"`
+	Scene    byte   `json:"scene"`
 	Type     string `json:"type"`
 }

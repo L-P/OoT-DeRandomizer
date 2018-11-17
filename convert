@@ -17,13 +17,12 @@ def main():
     """Re-keys data from OoT-Randomizer and write it to data/"""
     locations = {}
     for location in location_table:
-        address, address2, default, type_, scene, hint = location_table[location]
+        address, address2, default, type_, scene, _ = location_table[location]
         locations[location] = {
             "name": location,
             "address": address,
             "address2": address2,
             "default": default,
-            "hint": hint,
             "scene": scene,
             "type": type_,
         }
@@ -31,11 +30,10 @@ def main():
 
     items = {}
     for item in item_table:
-        _, _, type_, _, index, object_, _ = item_table[item]
+        _, _, type_, _, index, _, _ = item_table[item]
         items[item] = {
             "name": item,
             "index": index,
-            "object": object_,
             "type": type_,
         }
 
