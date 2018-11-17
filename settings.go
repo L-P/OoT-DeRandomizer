@@ -12,4 +12,7 @@ const QuestTypeNormal string = "normal"
 // Settings holds the ROM generation settings.
 type Settings struct {
 	Quest string
+
+	// Ignore Gold Skulltullas
+	IgnoreGS bool
 }

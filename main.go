@@ -10,6 +10,7 @@ import (
 func main() {
 	settings := Settings{}
 	flag.StringVar(&settings.Quest, "quest", QuestTypeNormal, "normal|mixed|master")
+	flag.BoolVar(&settings.IgnoreGS, "ignore-gs", false, "ignore gold skulltulas")
 	flag.Parse()
 
 	if len(flag.Args()) != 1 {

@@ -35,12 +35,20 @@ func findLocationItem(
 			continue
 		}
 
+		if strings.Index(location.Name, "GS") > -1 && settings.IgnoreGS {
+			continue
+		}
+
 		def := byte(location.Default & 0x00FF)
 		if location.Type == "Chest" {
 			def &= 0x1F
 		}
 
 		if o.Scene == location.Scene && o.Default == def {
+			if items[o.ItemIndex].Type == "Token" && settings.IgnoreGS {
+				continue
+			}
+
 			return location, items[o.ItemIndex], nil
 		}
 	}
