@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 func outputLocationToItem(
 	rom *ROM,
@@ -10,7 +13,7 @@ func outputLocationToItem(
 	for _, v := range rom.Overrides {
 		l, i, err := findLocationItem(v, items, locations)
 		if err != nil {
-			return nil
+			continue
 		}
 
 		fmt.Printf("%s: %s\n", l.Name, i.Name)
@@ -35,5 +38,5 @@ func findLocationItem(
 		}
 	}
 
-	return Location{}, Item{}, nil
+	return Location{}, Item{}, errors.New("not match")
 }
