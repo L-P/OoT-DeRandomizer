@@ -38,16 +38,4 @@ func main() {
 	for location, item := range combined {
 		fmt.Printf("%s: %s\n", location.Name, item.Name)
 	}
-
-	/*
-		log.Printf("Loading item list")
-		items, err := loadItems("data/items.json")
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		if err := outputLocationToItem(settings, rom, items, locations); err != nil {
-			log.Fatal(err)
-		}
-	*/
 }

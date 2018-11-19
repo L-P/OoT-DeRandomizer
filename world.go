@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"errors"
+	"log"
 	"os"
 	"strconv"
 	"strings"
@@ -11,7 +12,7 @@ import (
 // World holds the rules, available locations and available items.
 type World struct {
 	locations []Location
-	items     []Item
+	items     map[byte]Item
 	symbols   map[string]uint32
 
 	isMQ bool
@@ -24,7 +25,7 @@ type World struct {
 func NewWorld(settings Settings, rom *ROM) (*World, error) {
 	world := &World{
 		locations: make([]Location, 0, 256),
-		items:     make([]Item, 0, 256),
+		items:     make(map[byte]Item, 256),
 		symbols:   make(map[string]uint32),
 		rom:       rom,
 		settings:  settings,
@@ -33,7 +34,7 @@ func NewWorld(settings Settings, rom *ROM) (*World, error) {
 	if err := world.loadLocations("data/locations.json"); err != nil {
 		return nil, err
 	}
-	if err := world.loadItems("data/locations.json"); err != nil {
+	if err := world.loadItems("data/items.json"); err != nil {
 		return nil, err
 	}
 	if err := world.loadSymbols("data/symbols.json"); err != nil {
@@ -77,11 +78,17 @@ func (w *World) MapLocationToItem() (map[Location]Item, error) {
 			}
 
 			if o.Scene == location.Scene && o.Default == def {
-				if w.items[o.ItemIndex].Type == "Token" && w.settings.IgnoreGS {
+				item, ok := w.items[o.ItemIndex]
+				if !ok {
+					log.Printf("item %02X was not found", o.ItemIndex)
 					continue
 				}
 
-				ret[location] = w.items[o.ItemIndex]
+				if item.Type == "Token" && w.settings.IgnoreGS {
+					continue
+				}
+
+				ret[location] = item
 			}
 		}
 	}
@@ -114,8 +121,13 @@ func (w *World) loadItems(path string) error {
 	}
 	defer r.Close()
 
-	if err := json.NewDecoder(r).Decode(&w.items); err != nil {
+	items := make([]Item, 0, 256)
+	if err := json.NewDecoder(r).Decode(&items); err != nil {
 		return err
+	}
+
+	for _, v := range items {
+		w.items[v.Index] = v
 	}
 
 	return nil
